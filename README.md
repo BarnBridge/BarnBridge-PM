@@ -1,7 +1,6 @@
 ## BarnBridge Project Management
 
-### [White Paper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.io/)
-#### [Clubhouse](https://app.clubhouse.io/barnbridge/stories/space/47/everything)
+### [White Paper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.io/) / [Clubhouse](https://app.clubhouse.io/barnbridge/stories/space/47/everything)
 
 ### Previous BarnBridge Project Calls
 
