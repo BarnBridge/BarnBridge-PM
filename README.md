@@ -6,4 +6,4 @@
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
- 0  | Thu, Sept 10, 2020 14:00 UTC       | [agenda]() \| [notes]()     | [video]() |
+ 0  | Thu, Sept 10, 2020 14:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/1) \| [notes]()     | [video]() |
