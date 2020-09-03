@@ -4,7 +4,7 @@
 ### [White Paper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.io/) 
 
 ## **Operations**
-###[Clubhouse](https://app.clubhouse.io/barnbridge/stories/space/47/everything) / [LaunchDAO](https://mainnet.aragon.org/#/barnbridgelaunch/)
+### [Clubhouse](https://app.clubhouse.io/barnbridge/stories/space/47/everything) / [LaunchDAO](https://mainnet.aragon.org/#/barnbridgelaunch/)
 
 ### Previous BarnBridge Project Calls
 
