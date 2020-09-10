@@ -5,12 +5,14 @@
 ### [GitHub Agenda Page](https://github.com/BarnBridge/BarnBridge-PM/issues/1)
 ### [Audio/Video of the meeting]()
 
-Moderator: 
+Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
 
-Attendees: 
+Attendees: Milad Mostavi, Dragos Rizescu, Daniel Luca, Boigdan Gheorghe, Casian Lacatusu, Tyler Scott Ward, & Troy Murray
 
 ## Tech
+
+### COMING SOON
 
 ## Other
