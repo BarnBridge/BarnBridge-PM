@@ -9,7 +9,7 @@ Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
 
-Attendees: Milad Mostavi, Dragos Rizescu, Daniel Luca, Boigdan Gheorghe, Casian Lacatusu, Tyler Scott Ward, & Troy Murray
+Attendees: Milad Mostavi, Dragos Rizescu, Daniel Luca, Bogdan Gheorghe, Casian Lacatusu, Tyler Scott Ward, & Troy Murray
 
 ## Tech
 
