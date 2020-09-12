@@ -19,6 +19,7 @@ Attendees: Milad Mostavi, Dragos Rizescu, Daniel Luca, Bogdan Gheorghe, Casian L
 - Bogdan G—  DeFi nerd, product & data dev
 - Casian Lacatusu— DeFi dev
 - Troy Murray - anon
+
 **https://barnbridge.io/team/**
 
 
