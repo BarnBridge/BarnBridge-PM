@@ -6,6 +6,9 @@
 ## **Operations**
 ### [Clubhouse](https://app.clubhouse.io/barnbridge/stories/space/47/everything) / [LaunchDAO](https://mainnet.aragon.org/#/barnbridgelaunch/)
 
+## **Audits**
+### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge%20Yield%20Farming%20and%20Incentivization%20AUDIT.pdf)
+
 ### Previous BarnBridge Project Calls
 
  №  | Date                             | Notes          | Recording            |
