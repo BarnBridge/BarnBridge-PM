@@ -9,6 +9,6 @@ Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
 
-Attendees: Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Keegan Selby, EJ Rogers, Tyler Scott Ward, & Troy Murray
+Attendees: Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Keegan Selby, EJ Rogers, Akin Sawyerr, Vitaliy Chernyak, Pavlo Bendus, Mark Ward, Tyler Scott Ward, & Troy Murray
 
 # Coming Soon
