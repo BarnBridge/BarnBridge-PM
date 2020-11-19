@@ -3,7 +3,7 @@
 ### Meeting Date/Time: Thursday Nov 5, 2020 at 14:00 UTC
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/BarnBridge/BarnBridge-PM/issues/6)
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://youtu.be/A_ekgo85kE8)
 
 Moderator: Troy Murray
 
