@@ -13,7 +13,7 @@ Scribe:
 
 Attendees:
 
-#### Tech/Dev
+### Tech/Dev
  *
  
 #### BBDAO
@@ -31,7 +31,7 @@ Attendees:
 #### Operations/Marketing Run down.
  *
  
-#### Round Table
+### Round Table
  *
  
 # Coming Soon
