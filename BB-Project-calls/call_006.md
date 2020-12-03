@@ -11,11 +11,17 @@ Moderator: Troy Murray
 
 Scribe:
 
-Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Akin Sawyer, EJ Rogers, 
+Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Akin Sawyer, EJ Rogers, Mark Ward 
 
-## Tech/Dev
+## Intro
 
-Dragos: Hello, everyone. First thing, BarnBridge App— Yield Farming. 
+Troy: Welcome everyone to Barn Bridge project call 006, we are going to start the Agenda off with Dragos himself. 
+
+## Tech/Dev 
+
+Dragos: Thank you, Troy. 
+
+Hello, everyone. First thing we are talking about is the BarnBridge App— Yield Farming. 
 
 Monday last week, there was a front end bug. Luckily we solved it quickly. The bug was caused by a list of transactions recieved from the sub-graph. It was saved in the session storage, the session storage filled up and resulted in a front end crash for a lot of user browsers. Not that bad of a problem— too many transactions.
  
@@ -67,7 +73,7 @@ Our plan is for at least two separate audits for Smart Alpha. We will announce m
 
 There's an overall focus and very huge emphasis on security, we have a pretty large in-house team doing the internal reviews. Atpar has been helping a lot with external audits, with all of the biggest companies in the space to be honest. Double the audits for all of the products, the reports will be published, so you guys can take a look at them. The repos will be made public in due time.
 
-A bug bounty program, Mark will talk more about later. 
+A bug bounty program, Mark will talk more about later and some other interesting lines of defense that we are going to use to keep funds safe, which are all going to be announced later.
  
 #### DeFi Standards
  *
