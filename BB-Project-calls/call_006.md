@@ -155,7 +155,11 @@ As mentioned last week, we really want to be community driven and offer as much 
 
 If you have any questions about this and you are in our Discord you can always reach out to me and I can try to help out, get you started. 
 
-Really, same as last week, we have got them going they're started, just keep an eye peeled for more bounties. They will be announced via Twitter & Discord. If you are on Gitcoin or Github you might see them a bit faster than others before they are posted to Twitter or Discord.
+Really, same as last week, we have got them going they're started, just keep an eye peeled for more bounties. 
+
+They will be announced via Twitter & Discord. 
+
+If you are on Gitcoin or Github you might see them a bit faster than others before they are posted to Twitter or Discord.
 
 ### Operations/Marketing Run down
  *
