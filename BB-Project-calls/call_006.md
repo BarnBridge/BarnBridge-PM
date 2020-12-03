@@ -131,7 +131,23 @@ Just to make that clear, I think that would be a pretty market innovation in our
 
 It will be easier for market participants to enter the markets, exit the markets with assurance that product ratings are what they should be and what they are. And you can track that dynamically over time.
 
-That's the long term goal, and we're trying to build the standards, the rules, the conventions, with the hope our partners will adopt them. But, over the long term that those become the standards in the DeFi space that provide some level of self-regulation and self-disclosure, that we think will be beneficial to the whole ecosystem.  
+That's the long term goal, and we're trying to build the standards, the rules, the conventions, with the hope our partners will adopt them. But, over the long term that those become the standards in the DeFi space that provide some level of self-regulation and self-disclosure, that we think will be beneficial to the whole ecosystem.
+
+Troy: Yeah, personally I find it really exciting what's going on with all that. Especially the outside conversations we've been having with other teams, and the input they have provided. I expect a lot of growth in that area in the next couple months.
+
+### Bounties
+
+Mark: A small update from last week about the bounty programs. We have launched them— there are a few up on github & gitcoin already. 
+
+You can find them in the [BarnBridge bounty program repo.](https://github.com/BarnBridge/Bounty-Program)
+
+We also have a separate one for [project calls](https://github.com/BarnBridge/Project-Call-Notes-) because we are going to continue to host project call notes. We have already chosen someone for this week.  
+
+There are three bounties out right now; 
+
+ * [Japanese translation of Whitepaper and Website](https://github.com/BarnBridge/Bounty-Program/issues/2)
+ * [Spanish translation of Whitepaper and Website](https://github.com/BarnBridge/Bounty-Program/issues/3)
+ * [BarnBridge Meme Competition (November)](https://gitcoin.co/issue/BarnBridge/Meme-Competitions/1/100024202)
  
 ### Operations/Marketing Run down
  *
