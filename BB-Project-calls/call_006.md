@@ -15,11 +15,11 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 
 ## Intro
 
-Troy: Welcome everyone to Barn Bridge project call 006, we are going to start the agenda off with Dragos himself. 
+**Troy:** Welcome everyone to Barn Bridge project call 006, we are going to start the agenda off with Dragos himself. 
 
 ## Tech/Dev 
 
-Dragos: Thank you, Troy. 
+**Dragos:** Thank you, Troy. 
 
 Hello, everyone. First thing we are talking about is the BarnBridge App— Yield Farming. 
 
@@ -33,19 +33,19 @@ Here is a sneak peak, and we will soon roll a release for these updates. Either 
  
 ### BBDAO
  
-Bogdan: Smart contracts are now 100% done. We are working on improving test coverage, doing some internal reviews. As far as design goes, a third of it has already been implemented in the front end. We are just connecting it to the test net contracts. 
+**Bogdan:** Smart contracts are now 100% done. We are working on improving test coverage, doing some internal reviews. As far as design goes, a third of it has already been implemented in the front end. We are just connecting it to the test net contracts. 
 
 Shout out to Slava he's been killing it with the front end work on both the Yied Farming and the DAO at the same time. 
 
-Dragos: I think we can show the community a bit of what this is going to look like. I don't think that's going to be a problem. Let me share my screen. 
+**Dragos:** I think we can show the community a bit of what this is going to look like. I don't think that's going to be a problem. Let me share my screen. 
 
-Bogdan: Small spoiler. 😎 
+**Bogdan:** Small spoiler. 😎 
 
-Dragos: This is how the DAO overview page will look, Denis killed it with the UI once again— shoutout to Denis. This is going to be the list of proposals, when you click a proposal you will get something like this. I'm going to stop showing this now, that's the sneak peak. 
+**Dragos:** This is how the DAO overview page will look, Denis killed it with the UI once again— shoutout to Denis. This is going to be the list of proposals, when you click a proposal you will get something like this. I'm going to stop showing this now, that's the sneak peak. 
 
 Back to you Bogdan.
 
-Bogdan: Gracias, ignore the top secret part, that was just Denis messing with us. Just for authenticity.
+**Bogdan:** Gracias, ignore the top secret part, that was just Denis messing with us. Just for authenticity.
 
 Back end work is in progress, there is a data pipline working that will replace the old graphs. We are slowly feeding data to the front end, internal reviews are in progress. 
 
@@ -55,7 +55,7 @@ That's pretty much it for the DAO.
  
 ### Smart Yield
  
-Bogdan: We had two competing models. Essentially those two models competed until one of them wore out and borrowed the best features from the other. So the smart contract development is moving along nicely with the winning model. Implementation should be done in time for the winter holidays. 
+**Bogdan:** We had two competing models. Essentially those two models competed until one of them wore out and borrowed the best features from the other. So the smart contract development is moving along nicely with the winning model. Implementation should be done in time for the winter holidays. 
 
 The UI being worked on by Denis— the largest emphasis of this being on UX and having the smoothest possible experience. Everystep of the way, getting a bit of hand holding, plenty of disclaimers along the way so you know what you are getting into.
 
@@ -65,7 +65,7 @@ Also, two audits are booked for the smart yield, both kicking off in early 2021.
  
 ### Smart Alpha
 
-Bogdan: Working the zero spec, if we could call it that. Almost completed, with major help from Atpar. There is a kicker to that— there will be two different smart alpha flavours getting worked on at the same time.
+**Bogdan:** Working the zero spec, if we could call it that. Almost completed, with major help from Atpar. There is a kicker to that— there will be two different smart alpha flavours getting worked on at the same time.
 
 We are probably going to have to edit the whitepaper and all the docs out there to include both versions. You will get a feel for what those are soon.
 
@@ -75,26 +75,26 @@ There's an overall focus and very huge emphasis on security, we have a pretty la
 
 A bug bounty program, Mark will talk more about later and some other interesting lines of defense that we are going to use to keep funds safe, which are all going to be announced later.
  
-Troy: Awesome, update there. Thank you, Bogdan. That was like...
+**Troy:** Awesome, update there. Thank you, Bogdan. That was like...
 
-Tyler: That was like a mic drop dev update.
+**Tyler:** That was like a mic drop dev update.
 
-Troy: Yeah.
+**Troy:** Yeah.
 
-Bogdan: My mouth is dry.
+**Bogdan:** My mouth is dry.
 
-Troy: I hope the community really understands, there is a lot of information there, a lot to digest. But we are all excited.
+**Troy:** I hope the community really understands, there is a lot of information there, a lot to digest. But we are all excited.
 
 ### DeFi Standards
 
-Troy: There's been internal conversations around these ideas, and we have had talks with external teams. About this idea— the standards inside of this ecosystem. I want to turn it over to Akin who has really been spear heading a lot of these conversations.
+**Troy:** There's been internal conversations around these ideas, and we have had talks with external teams. About this idea— the standards inside of this ecosystem. I want to turn it over to Akin who has really been spear heading a lot of these conversations.
 
-Akin: We talked a bit about this last call. The idea that— because of the nature of the products we are creating, we need to build some clarity as to, what the risk were around the products. 
+**Akin:** We talked a bit about this last call. The idea that— because of the nature of the products we are creating, we need to build some clarity as to, what the risk were around the products. 
 
 But, also just naming conventions; 
 
- * What are they called?  
- * What would a senior tranche look like?
+ * *What are they called?*  
+ * *What would a senior tranche look like?*
  
 Just to create some real uniformity. Because, as we put products out there we want it to make sure that it's easy for customer's to be able to really understand what each product is and be able to identify them.
 
@@ -108,10 +108,10 @@ But we also want to make it accessible enough for new users, who are in the DeFi
 
 Basically, at least a base level of disclosures that let you know;
 
- * What's important to ask?
- * What's important information you should know about these assets?
+ * *What's important to ask?*
+ * *What's important information you should know about these assets?*
  
-Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. 
+**Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. 
 
 We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomanclatures— things that people can easily find and reference as they buy and sell out products.
 
@@ -133,11 +133,11 @@ It will be easier for market participants to enter the markets, exit the markets
 
 That's the long term goal, and we're trying to build the standards, the rules, the conventions, with the hope our partners will adopt them. But, over the long term that those become the standards in the DeFi space that provide some level of self-regulation and self-disclosure, that we think will be beneficial to the whole ecosystem.
 
-Troy: Yeah, personally I find it really exciting what's going on with all that. Especially the outside conversations we've been having with other teams, and the input they have provided. I expect a lot of growth in that area in the next couple months.
+**Troy:** Yeah, personally I find it really exciting what's going on with all that. Especially the outside conversations we've been having with other teams, and the input they have provided. I expect a lot of growth in that area in the next couple months.
 
 ### Bounties
 
-Mark: A small update from last week about the bounty programs. We have launched them— there are a few up on github & gitcoin already. 
+**Mark:** A small update from last week about the bounty programs. We have launched them— there are a few up on github & gitcoin already. 
 
 You can find them in the [BarnBridge bounty program repo.](https://github.com/BarnBridge/Bounty-Program)
 
@@ -161,17 +161,17 @@ They will be announced via Twitter & Discord.
 
 If you are on Gitcoin or Github you might see them a bit faster than others before they are posted to Twitter or Discord.
 
-Troy: Right on. I'm excited to see what happens with the call notes on this one, that should be an interesting experiment. Last but not least I think we'll hand it off to Tyler.
+**Troy:** Right on. I'm excited to see what happens with the call notes on this one, that should be an interesting experiment. Last but not least I think we'll hand it off to Tyler.
 
 ### Operations/Marketing Run down
  
-Tyler: Alright, it seems like for the next call i'm being asked to wear a santa costume— we are going to need to vote on that next week.
+**Tyler:** Alright, it seems like for the next call i'm being asked to wear a santa costume— we are going to need to vote on that next week.
 
 *technical difficulties*
 
 #### Operations
 
-Tyler: What I was going to say was, what are there around three thousand people in the Discord? If we can get a rough 20% consensus with upvotes or a poll. I'll buy a santa suit, it has to be next week so Amazon can get it here in time. Shoutout to EJ for the idea.
+**Tyler:** What I was going to say was, what are there around three thousand people in the Discord? If we can get a rough 20% consensus with upvotes or a poll. I'll buy a santa suit, it has to be next week so Amazon can get it here in time. Shoutout to EJ for the idea.
 
 Alright, just a quick run down on operations and marketing. There were some people asking us in discord, about *official partnerships.* 
 
@@ -198,6 +198,8 @@ So, just basically want to explain to the community, that we are talking to just
 In terms of official partnerships, we are talking to just about everyone in the space in some capacity or another. We just don't want to go around name dropping unofficial partnerships, and the real actual ink to paper stuff is very boring. But, hopefully that gives everybody an idea of the boring behind the scenes stuff, that we are all working on.
 
 #### Marketing updates
+
+**Tyler:**
 
 ## Round Table
  *
