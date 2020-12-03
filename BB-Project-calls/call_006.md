@@ -161,8 +161,27 @@ They will be announced via Twitter & Discord.
 
 If you are on Gitcoin or Github you might see them a bit faster than others before they are posted to Twitter or Discord.
 
+Troy: Right on. I'm excited to see what happens with the call notes on this one, that should be an interesting experiment. Last but not least I think we'll hand it off to Tyler.
+
 ### Operations/Marketing Run down
- *
  
+Tyler: Alright, it seems like for the next call i'm being asked to wear a santa costume— we are going to need to vote on that next week.
+
+*technical difficulties*
+
+Tyler: What I was going to say was, what are there around three thousand people in the Discord? If we can get a rough 20% consensus with upvotes or a poll. I'll buy a santa suit, it has to be next week so Amazon can get it here in time. Shoutout to EJ for the idea.
+
+Alright, just a quick run down on operations and marketing. There were some people asking us in discord, about *official partnerships.* 
+
+So I think that, the partnership concept was so abused in the ICO days. So now we have moved to DeFi calling actual partnerships acquistions. I know why the community is asking about partnerships, and essentially as far as what Akin is doing, I don't know how official you want to call a partnership. 
+
+But we are working with Aave— while on this call just launched the v2 of their protocol. We are also working with the Opium team on this general idea of standards. We also talked to ChainLink yesterday, about standards in particular, and how you verify on chain assets and how oracles would be a player that could work with that.
+
+ The community can think of this as— as we have all of these new on chain tokenized representations of debt and derivatives off of those debt. Assets, how they're read on chain will become somewhat of a cluster for the ecosystem, and we are trying to get out in front of it, to work with the community on some of those. 
+
+We'll probably reach out to Maker and Compound, once we start to solidify some of the things with the other players that I'm mentioning. I don't want to make it sound like we are not working with the entire ecosystem. I put a long form response to everybody in general chat on discord. 
+
+For the people who are not keeping up with that. Like on the oracle side we are talking to pretty much everyone, like ChainLink, UMA reached out at one point asking us to look at their feeds. I know we are looking at the ___ feeds.            
+
 ## Round Table
  *
