@@ -15,7 +15,7 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 
 ## Intro
 
-Troy: Welcome everyone to Barn Bridge project call 006, we are going to start the Agenda off with Dragos himself. 
+Troy: Welcome everyone to Barn Bridge project call 006, we are going to start the agenda off with Dragos himself. 
 
 ## Tech/Dev 
 
@@ -115,9 +115,9 @@ Something that gives you the full sense of the risks you're buying into. So, we 
 
 We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomanclatures— things that people can easily find and reference as they buy and sell out products.
 
-Another thing— We have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. 
+Another thing, we have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches. 
 
-Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches. We've began to think upfront now as to how we can make it easier for users and customers to easily verify that everything we are putting out there has or is meeting the standard of liquidity or the collateral backing of all these assets.
+We've began to think upfront now as to how we can make it easier for users and customers to easily verify that everything we are putting out there has or is meeting the standard of liquidity or the collateral backing of all these assets.
 
 We are in some conversations to explore those ideas, and might not necessarily make it throught the first round of disclosures list, but we might it depends how quickly those conversations happen. 
 
@@ -148,7 +148,15 @@ There are three bounties out right now;
  * [Japanese translation of Whitepaper and Website](https://github.com/BarnBridge/Bounty-Program/issues/2)
  * [Spanish translation of Whitepaper and Website](https://github.com/BarnBridge/Bounty-Program/issues/3)
  * [BarnBridge Meme Competition (November)](https://gitcoin.co/issue/BarnBridge/Meme-Competitions/1/100024202)
- 
+
+We actually have nine applications for the spanish translation and we will be narrowing down those this week. But we currently have zero applications for japanese. So if anyone knows japanese, or is willing to help us out with that. Please reach out to us or apply for our gitcoin bounty so we can get that rolling.
+
+As mentioned last week, we really want to be community driven and offer as much as we can to the community to help with us. So, make a Gitcoin account if you don't have one and make a Github account if you don't have one because you will need a Github account in order to have a Gitcoin account.
+
+If you have any questions about this and you are in our Discord you can always reach out to me and I can try to help out, get you started. 
+
+Really, same as last week, we have got them going they're started, just keep an eye peeled for more bounties. They will be announced via Twitter & Discord. If you are on Gitcoin or Github you might see them a bit faster than others before they are posted to Twitter or Discord.
+
 ### Operations/Marketing Run down
  *
  
