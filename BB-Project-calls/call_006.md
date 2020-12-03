@@ -55,7 +55,7 @@ That's pretty much it for the DAO.
  
 #### Smart Yield
  
-We had two competing models. Essentially those two models competed until one of them wore out and borrowed the best features from the other. So the smart contract development is moving along nicely with the winning model. Implementation should be done in time for the winter holidays. 
+Bogdan: We had two competing models. Essentially those two models competed until one of them wore out and borrowed the best features from the other. So the smart contract development is moving along nicely with the winning model. Implementation should be done in time for the winter holidays. 
 
 The UI being worked on by Denis— the largest emphasis of this being on UX and having the smoothest possible experience. Everystep of the way, getting a bit of hand holding, plenty of disclaimers along the way so you know what you are getting into.
 
@@ -65,7 +65,7 @@ Also, two audits are booked for the smart yield, both kicking off in early 2021.
  
 #### Smart Alpha
 
-Working the zero spec, if we could call it that. Almost completed, with major help from Atpar. There is a kicker to that— there will be two different smart alpha flavours getting worked on at the same time.
+Bogdan: Working the zero spec, if we could call it that. Almost completed, with major help from Atpar. There is a kicker to that— there will be two different smart alpha flavours getting worked on at the same time.
 
 We are probably going to have to edit the whitepaper and all the docs out there to include both versions. You will get a feel for what those are soon.
 
@@ -75,8 +75,63 @@ There's an overall focus and very huge emphasis on security, we have a pretty la
 
 A bug bounty program, Mark will talk more about later and some other interesting lines of defense that we are going to use to keep funds safe, which are all going to be announced later.
  
+Troy: Awesome, update there. Thank you, Bogdan. That was like...
+
+Tyler: That was like a mic drop dev update.
+
+Troy: Yeah.
+
+Bogdan: My mouth is dry.
+
+Troy: I hope the community really understands, there is a lot of information there, a lot to digest. But we are all excited.
+
 #### DeFi Standards
- *
+
+Troy: There's been internal conversations around these ideas, and we have had talks with external teams. About this idea— the standards inside of this ecosystem. I want to turn it over to Akin who has really been spear heading a lot of these conversations.
+
+Akin: We talked a bit about this last call. The idea that— because of the nature of the products we are creating, we need to build some clarity as to, what the risk were around the products. 
+
+But, also just naming conventions; 
+
+ * What are they called?  
+ * What would a senior tranche look like?
+ 
+Just to create some real uniformity. Because, as we put products out there we want it to make sure that it's easy for customer's to be able to really understand what each product is and be able to identify them.
+
+So, we have been having those conversations but we've also sort of expanded a little bit to also— think a litte more broadly around disclosures. 
+
+With most financial assets in the real world you tend to have to have these very long disclosures. That kind of tell you what they are and what the risks are. We think that we need something similar. But maybe not as onerous, in our space. 
+
+To create standards around how we disclose information around the risks, so that sophisticated users can see that and understand what they are. Because they are used to financial disclosures in the real world.
+
+But we also want to make it accessible enough for new users, who are in the DeFi space and in the Crypto space. So they know what questions to ask. 
+
+Basically, at least a base level of disclosures that let you know;
+
+ * What's important to ask?
+ * What's important information you should know about these assets?
+ 
+Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. 
+
+We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomanclatures— things that people can easily find and reference as they buy and sell out products.
+
+Another thing— We have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. 
+
+Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches. We've began to think upfront now as to how we can make it easier for users and customers to easily verify that everything we are putting out there has or is meeting the standard of liquidity or the collateral backing of all these assets.
+
+We are in some conversations to explore those ideas, and might not necessarily make it throught the first round of disclosures list, but we might it depends how quickly those conversations happen. 
+
+But, we are definitely entertaining some ideas that will make it easy for anyone to verify on-chain the level of liquidity that's backing all the assets we're put out there. Essentially so it's easier to measure, ultimately this fits into a sort of credit rating system. 
+
+Where you will be able to understand what the rating of an asset is and then verify the ratings valid, and if it's constant. And if it's not then you can see that maybe the collateral backing it has moved in a negative way and has affected the rating of the product.
+
+Ultimately, in steady state, we want to make sure that it's easy for people to understand what these assets are and the risks. And also easy for people to verify that these assets are behaving as they should be, and then price them accordingly. In steady state we want to make sure that information is easily accessible and dynamic. 
+
+Just to make that clear, I think that would be a pretty market innovation in our space. Because, in traditional finance it's hard to verify on an on-going basis that a pool of assets is actually behaving like it's supposed to. So the feedback loops in traditional finance are a little slower, but in crypto and defi we think we think we have the technology and the tools to make it a lot more dynamic. 
+
+It will be easier for market participants to enter the markets, exit the markets with assurance that product ratings are what they should be and what they are. And you can track that dynamically over time.
+
+That's the long term goal, and we're trying to build the standards, the rules, the conventions, with the hope our partners will adopt them. But, over the long term that those become the standards in the DeFi space that provide some level of self-regulation and self-disclosure, that we think will be beneficial to the whole ecosystem.  
  
 #### Operations/Marketing Run down
  *
