@@ -175,13 +175,23 @@ Alright, just a quick run down on operations and marketing. There were some peop
 
 So I think that, the partnership concept was so abused in the ICO days. So now we have moved to DeFi calling actual partnerships acquistions. I know why the community is asking about partnerships, and essentially as far as what Akin is doing, I don't know how official you want to call a partnership. 
 
-But we are working with Aave— while on this call just launched the v2 of their protocol. We are also working with the Opium team on this general idea of standards. We also talked to ChainLink yesterday, about standards in particular, and how you verify on chain assets and how oracles would be a player that could work with that.
+But we are working with Aave while on this call just launched the v2 of their protocol. We are also working with the Opium team on this general idea of standards. We also talked to ChainLink yesterday, about standards in particular, and how you verify on chain assets and how oracles would be a player that could work with that.
 
  The community can think of this as— as we have all of these new on chain tokenized representations of debt and derivatives off of those debt. Assets, how they're read on chain will become somewhat of a cluster for the ecosystem, and we are trying to get out in front of it, to work with the community on some of those. 
 
 We'll probably reach out to Maker and Compound, once we start to solidify some of the things with the other players that I'm mentioning. I don't want to make it sound like we are not working with the entire ecosystem. I put a long form response to everybody in general chat on discord. 
 
-For the people who are not keeping up with that. Like on the oracle side we are talking to pretty much everyone, like ChainLink, UMA reached out at one point asking us to look at their feeds. I know we are looking at the ___ feeds.            
+For the people who are not keeping up with that. Like on the oracle side we are talking to pretty much everyone, like ChainLink, UMA reached out at one point asking us to look at their feeds. I know we are looking at the ___ feeds. Obviously we are going to use ChainLink everywhere that we can, because it's like industry standard, and there's a reason why ChainLink is as successful as they are, because their team is pretty awesome.
+
+In terms of like actual, ink to paper partnerships, it's a lot more boring. But i'll explain to the community, so everybody knows what's going on. We are talking to two relatively large exchanges. Both are under NDA(non-disclosure agreements) we cannot announce anything, we do not want people front running. Those conversations are progressing. I'm assuming they will really progress when we have live products.
+
+We've solidified, at least on our end, some aspect of legal council. As you know you got $200 million in TVL, meaning we are responsible for those assets and it's a big responsibility. As well as the general growth of BarnBridge from inception. Obviously, we just need to figure out what we can and can't say, and what we should and shouldn't be doing. To make sure everything is done properly so things don't get pulled down. 
+
+Bogdan alluded to audits. I think we've officialy inked Haechi and I believe Quantstamp, but I don't know if we have signed with them, we are more working on timing but that's for the DAO. We will probably do a Hacken audit for Smart Yield. But more importantly is OpenZeppelin, since that's going to be our big product that we launch originally, which fortunately will be followed up quickly by Smart Alpha. I think some of those original timelines of development have overlapped a little bit.
+
+All of those audit firms are signed deals that we are progressing forward. Also, as Bogdan alluded to we very well may be working with one of our partners who helped scope out Smart Alpha, to help push some of that forward. That's unofficial but you could call that a real partnership. 
+
+So, just basically want to explain to the community, that we are talking to just about everyone in the ecosystem. I think it's a forgone conclusion that we will integrate with Aave and Synthetix. Those teams have been nothing but helpful. 
 
 ## Round Table
  *
