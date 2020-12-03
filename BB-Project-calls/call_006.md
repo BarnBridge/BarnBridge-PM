@@ -169,6 +169,8 @@ Tyler: Alright, it seems like for the next call i'm being asked to wear a santa 
 
 *technical difficulties*
 
+#### Operations
+
 Tyler: What I was going to say was, what are there around three thousand people in the Discord? If we can get a rough 20% consensus with upvotes or a poll. I'll buy a santa suit, it has to be next week so Amazon can get it here in time. Shoutout to EJ for the idea.
 
 Alright, just a quick run down on operations and marketing. There were some people asking us in discord, about *official partnerships.* 
@@ -189,9 +191,13 @@ We've solidified, at least on our end, some aspect of legal council. As you know
 
 Bogdan alluded to audits. I think we've officialy inked Haechi and I believe Quantstamp, but I don't know if we have signed with them, we are more working on timing but that's for the DAO. We will probably do a Hacken audit for Smart Yield. But more importantly is OpenZeppelin, since that's going to be our big product that we launch originally, which fortunately will be followed up quickly by Smart Alpha. I think some of those original timelines of development have overlapped a little bit.
 
-All of those audit firms are signed deals that we are progressing forward. Also, as Bogdan alluded to we very well may be working with one of our partners who helped scope out Smart Alpha, to help push some of that forward. That's unofficial but you could call that a real partnership. 
+All of those audit firms are signed deals that we are progressing forward. Also, as Bogdan alluded to, we very well may be working with one of our partners who helped scope out Smart Alpha, to help push some of that forward. That's unofficial but you could call that a real partnership. 
 
-So, just basically want to explain to the community, that we are talking to just about everyone in the ecosystem. I think it's a forgone conclusion that we will integrate with Aave and Synthetix. Those teams have been nothing but helpful. 
+So, just basically want to explain to the community, that we are talking to just about everyone in the ecosystem. I think it's a forgone conclusion that we will integrate with Aave and Synthetix. Those teams have been nothing but helpful, and honestly, kicked BarnBridge off from the get-go.
+
+In terms of official partnerships, we are talking to just about everyone in the space in some capacity or another. We just don't want to go around name dropping unofficial partnerships, and the real actual ink to paper stuff is very boring. But, hopefully that gives everybody an idea of the boring behind the scenes stuff, that we are all working on.
+
+#### Marketing updates
 
 ## Round Table
  *
