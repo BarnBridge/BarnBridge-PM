@@ -13,15 +13,16 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 ## Intro
 
 **Troy:** Welcome everyone to the BarnBridge project call 006, we are going to start the agenda off with Dragos himself.
+
+**Dragos:** Thank you, Troy.
+
 ## Tech/Dev
 
 ### BarnBridge App
 
 #### Yield Farming
 
-**Dragos:** Thank you, Troy.
-
-Hello, everyone. The first thing we are talking about is the BarnBridge App— Yield Farming.
+**Dragos:** Hello, everyone. The first thing we are talking about is the BarnBridge App— Yield Farming.
 
 Monday last week, there was a front end bug. Luckily we solved it quickly. The bug was caused by a list of transactions received from the sub-graph. It was saved in the session storage, the session storage filled up and resulted in a front end crash for a lot of user browsers. Not that bad of a problem— too many transactions.
 
