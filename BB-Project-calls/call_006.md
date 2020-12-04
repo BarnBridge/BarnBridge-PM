@@ -199,7 +199,31 @@ In terms of official partnerships, we are talking to just about everyone in the 
 
 #### Marketing updates
 
-**Tyler:**
+**Tyler:** We've been slowly rolling out Medium articles, more kind of housekeeping— who the team is, getting the team opened up on github so everybody can see what they're doing. Mark has been doing a hell of a job on the bounty stuff. We have some articles that basically the whole team has been working on. Everybody from Akin-Pablo-Vitaly and Troy as well. 
+
+There is a DAO article coming out, it's actually kind of done, but we're having internal conversations about one feature of the DAO that I think we need to hammer out before we share it with the community. And then there will also be articles coming out about some of the deeper specs around Smart Yield and Smart Alpha. 
+
+As we started building these products the whitepaper is now not 100% accurate, because the devil is in the details on how you build these things. In broad strokes it's accurate but in the finite details it's less so. 
+
+There's a lot of stuff we've been working on. When Coinbase was looking at us for custody they linked to our BOND token page, which was outdated— we've updated that. We probably need to update the Smart Alpha and Smart Yield sections of the site, there are some typos in some graphics that we know about.
+
+There's just a whole bunch of little things happening behind the scenes that are boring. But I think that come January and February we are going to be shipping so fast, that people are'nt going to be requesting unofficial partnerships because we'll be at the point we are moving into official partnerships.
+
+Hopefully that gives everyone an idea of what we've been doing. I think we're kind of all busting ass & hustling, and I think you can expect to continue to see that. Albiet, the christmas blip will slow us down a little bit.
+
+**Troy:** The christmas blip, that's an interesting way of putting it.
+
+**Tyler:** Well I'm a workaholic. So personally, you know. I don't have down time on christmas, but all ya'll can enjoy it. 🎅
+
+**Mark:** Yeah, Tyler, for the last four years would come to christmas, and then would open his computer while everyone was opening presents. Christmas and thanksgiving, he'd say " oh my ___ have a black friday sale, I have to do this!" he always had something open on his computer to do. 
+
+**Tyler:** Well...
+
+**Mark:** It's alright Tyler, we'll always love you.
+
+**Troy:** Inside family information there.
+
+**Mark:**      
 
 ## Round Table
  *
