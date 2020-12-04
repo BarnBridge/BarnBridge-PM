@@ -15,6 +15,10 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 **Troy:** Welcome everyone to the BarnBridge project call 006, we are going to start the agenda off with Dragos himself.
 ## Tech/Dev
 
+### BarnBridge App
+
+#### Yield Farming
+
 **Dragos:** Thank you, Troy.
 
 Hello, everyone. The first thing we are talking about is the BarnBridge App— Yield Farming.
@@ -27,7 +31,7 @@ With our goal of a better user experience. We started moving away from the graph
 
 Here is a sneak peek, and we will soon roll a release for these updates. Either later in the day today or tomorrow. The updates allow the graphs and transaction lists to load a lot quicker. Creating a better user experience.
 
-### BBDAO
+#### BBDAO
 
 **Bogdan:** Smart contracts are now 100% done. We are working on improving test coverage, doing some internal reviews. As far as design goes, a third of it has already been implemented in the front end. We are just connecting it to the test net contracts.
 
@@ -51,7 +55,7 @@ The first one starts next week and the other one later in the month or early 202
 
 That's pretty much it for the DAO.
 
-### Smart Yield
+#### Smart Yield
 
 **Bogdan:** We had two competing models. Essentially those two models competed until one of them wore out and borrowed the best features from the other. So the smart contract development is moving along nicely with the winning model. Implementation should be done in time for the winter holidays.
 
@@ -61,7 +65,7 @@ The back end specs also being worked on at the same time, this will include the 
 
 Also, two audits are booked for the smart yield, both kicking off in early 2021.
 
-### Smart Alpha
+#### Smart Alpha
 
 **Bogdan:** Working the zero spec, if we could call it that. Almost completed, with major help from Atpar. There is a kicker to that— there will be two different smart alpha flavours getting worked on at the same time.
 
