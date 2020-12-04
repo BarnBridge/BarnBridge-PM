@@ -223,7 +223,30 @@ Hopefully that gives everyone an idea of what we've been doing. I think we're ki
 
 **Troy:** Inside family information there.
 
-**Mark:**      
+**Mark:** I just want to add one more thing, because I had people talk about it in their applications— for the meme competition guys, it's in our discord. You do not have a limit on how many memes you can submit. You can submit as many memes as you want, we love the memes. Your memes might get featured on one of Tyler's tweets or BarnBridge's tweets.
+
+You may not win but keep trying next week. Novemeber's competition just ended so we'll be selecting someone this week. Then we'll put the bounty up for December, so holiday memes, whatever you guys want. Post as many memes as you want, there's no limit.   
+
+**Troy:** Keep the memes coming, keep the memes coming.
+
+**Tyler:** I want more Amish memes. I love them. I'm almost liking those more than the James Bond ones. 
 
 ## Round Table
- *
+
+**Troy:** Okay, well the last thing is the Round Table. Is there anything that anybody wants to talk about that wasn't on the agenda?  
+
+Usually this is where we have the question section from the community, but there was none this week. Is there anyone on here that wants to say anything go ahead now.
+
+**Mark:** Can you guys give us some questions next week? I don't think we have had one yet and this is project call 006.
+
+**Troy:** We've had multiple.
+
+**Tyler:** I think the epic Q bot on discord destroyed the questions. 
+
+**Troy:** I think there will probably be a lot more questions once the products start shipping. Especially the DAO and everything. 
+ 
+**Pavlo:** We were seeing some questions about a telegram drop, and that. We are not doing any airdrops on telegram. 
+
+
+
+
