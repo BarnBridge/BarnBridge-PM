@@ -112,7 +112,7 @@ At least a base level of disclosures that let you know;
 
 **Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomenclatures— things that people can easily find and reference as they buy and sell our products.
 
-Another thing, we have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches.
+Another thing, we have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of who is originating debt and what are we tranching, and what are the various tranches.
 
 We've begun to think upfront now as to how we can make it easier for users and customers to easily verify that everything we are putting out there has or is meeting the standard of liquidity or the collateral backing of all these assets.
 
