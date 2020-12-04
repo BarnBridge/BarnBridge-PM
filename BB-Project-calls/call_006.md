@@ -249,9 +249,19 @@ Usually this is where we have the question section from the community, but there
 
 **Troy:** Yes.
 
-**Tyler:** Honestly, just ignore anything about BarnBridge on Telegram. We literally only have a group to push everybody to discord. We have been reporting these Telegram groups. I have no idea what the scam is. It's some random bot, as soon as we pull it down, it just gets put right back up again. Some people in the community are saying we are responsible for it.     
+**Tyler:** Honestly, just ignore anything about BarnBridge on Telegram. We literally only have a group to push everybody to discord. We have been reporting these Telegram groups. I have no idea what the scam is. It's some random bot, as soon as we pull it down, it just gets put right back up again. Some people in the community are saying we are responsible for it. Saying we need to talk to Telegram, I don't know anyone at Telegram.
+
+Just ignore it, it looks like a scam and it feels like a scam. It's your guy's fault if you do something on there because we literally have nothing to do with that thing. So just, do your own research there. We'll keep reporting it, but I'm not going to officially reach out to Telegram to stop it, because it seems like a whack-a-mole where you drop one and another pops up.         
+
+**Troy:** Yeah, definitely.
+
+**Akin:** I'll add a couple lines. There was some conversations around governance that we've had over the last couple days on the platform. I just want to talk a little about that. Part of what we are really trying to do is ensure that we have a really fair governance proccess, that balances expediency with participation from the community. As anyone who has been in the DeFi ecosystem there's a lot of conversation and experiments around governance.
+
+In part of what we are trying to do is make sure that we are taking the best of what we've seen out there, and incorporating it into what we are doing. But also, ensuring that it aligns with our philosophy and our goals of making sure that this is a community owned project, and the community ultimately would have the power to drive decisions. 
 
 
+We're being deliberate over the next couple of weeks, to make sure we are dotting all the i's and crossing the t's. I think a lot of the conversations we've been having on the discord have been very helpful, because I think we have been leveraging people thoughts, and just having these discussions openly are helpful. 
 
+Just to tell the community, that governance for us is really at the top of the list.  
 
 
