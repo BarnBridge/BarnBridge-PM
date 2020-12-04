@@ -13,7 +13,7 @@ Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Most
 ## Intro
 
 **Troy:** Welcome everyone to the BarnBridge project call 006, we are going to start the agenda off with Dragos himself.
-### Tech/Dev
+## Tech/Dev
 
 **Dragos:** Thank you, Troy.
 
@@ -27,7 +27,7 @@ With our goal of a better user experience. We started moving away from the graph
 
 Here is a sneak peek, and we will soon roll a release for these updates. Either later in the day today or tomorrow. The updates allow the graphs and transaction lists to load a lot quicker. Creating a better user experience.
 
-## BBDAO
+### BBDAO
 
 **Bogdan:** Smart contracts are now 100% done. We are working on improving test coverage, doing some internal reviews. As far as design goes, a third of it has already been implemented in the front end. We are just connecting it to the test net contracts.
 
