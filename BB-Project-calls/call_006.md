@@ -245,7 +245,12 @@ Usually this is where we have the question section from the community, but there
 
 **Troy:** I think there will probably be a lot more questions once the products start shipping. Especially the DAO and everything. 
  
-**Pavlo:** We were seeing some questions about a telegram drop, and that. We are not doing any airdrops on telegram. 
+**Pavlo:** We were seeing some questions about a telegram drop, and that. We are not doing any airdrops on Telegram. We just have one Telegram group and the only point of that group is to forward everybody to discord. Everything official has been on Discord and Twitter. Do not send your private keys, do not send your money anywhere. Just follow the official threads.
+
+**Troy:** Yes.
+
+**Tyler:** Honestly, just ignore anything about BarnBridge on Telegram. We literally only have a group to push everybody to discord. We have been reporting these Telegram groups. I have no idea what the scam is. It's some random bot, as soon as we pull it down, it just gets put right back up again. Some people in the community are saying we are responsible for it.     
+
 
 
 
