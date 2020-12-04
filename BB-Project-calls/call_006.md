@@ -95,7 +95,6 @@ A bug bounty program, Mark will talk more about later and some other interesting
 But, also just naming conventions;
 
  * *What are they called?*
-
  * *What would a senior tranche look like?*
 
 Just to create some real uniformity. Because, as we put products out there we want to make sure that it's easy for customers to be able to understand what each product is and be able to identify them. So, we have been having those conversations but we've also sort of expanded a little bit to also— think a little more broadly around disclosures.
@@ -111,7 +110,7 @@ At least a base level of disclosures that let you know;
  * *What's important to ask?*
  * *What's important information you should know about these assets?*
 
-**Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomenclatures— things that people can easily find and reference as they buy and sell out products.
+**Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomenclatures— things that people can easily find and reference as they buy and sell our products.
 
 Another thing, we have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches.
 
