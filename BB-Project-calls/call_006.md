@@ -211,6 +211,8 @@ There's just a whole bunch of little things happening behind the scenes that are
 
 Hopefully that gives everyone an idea of what we've been doing. I think we're kind of all busting ass & hustling, and I think you can expect to continue to see that. Albiet, the christmas blip will slow us down a little bit.
 
+## Round Table
+
 **Troy:** The christmas blip, that's an interesting way of putting it.
 
 **Tyler:** Well I'm a workaholic. So personally, you know. I don't have down time on christmas, but all ya'll can enjoy it. 🎅
@@ -231,7 +233,6 @@ You may not win but keep trying next week. Novemeber's competition just ended so
 
 **Tyler:** I want more Amish memes. I love them. I'm almost liking those more than the James Bond ones. 
 
-## Round Table
 
 **Troy:** Okay, well the last thing is the Round Table. Is there anything that anybody wants to talk about that wasn't on the agenda?  
 
