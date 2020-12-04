@@ -118,9 +118,7 @@ We've begun to think upfront now as to how we can make it easier for users and c
 
 We are in some conversations to explore those ideas, and might not necessarily make it through the first round of disclosures list, but we might it depends on how quickly those conversations happen.
 
-But, we are definitely entertaining some ideas that will make it easy for anyone to verify on-chain the level of liquidity that's backing all the assets we're put out there. Essentially so it's easier to measure, ultimately this fits into a sort of credit rating system.
-
-Where you will be able to understand what the rating of an asset is and then verify the validity of the ratings, and if it's constant. And if it's not then you can see that maybe the collateral backing it has moved in a negative way and has affected the rating of the product.
+But, we are definitely entertaining some ideas that will make it easy for anyone to verify on-chain the level of liquidity that's backing all the assets we're putting out there. Essentially so it's easier to measure, ultimately this fits into a sort of credit rating system. Where you will be able to understand what the rating of an asset is and then verify the validity of the ratings, and if it's constant. And if it's not then you can see that maybe the collateral backing it has moved in a negative way and has affected the rating of the product.
 
 Ultimately, in steady-state, we want to make sure that it's easy for people to understand what these assets are and the risks. And also easy for people to verify that these assets are behaving as they should be, and then price them accordingly. In steady-state, we want to make sure that information is easily accessible and dynamic.
 
@@ -146,7 +144,7 @@ There are three bounties out right now;
  * [Spanish translation of Whitepaper and Website](https://github.com/BarnBridge/Bounty-Program/issues/3)
  * [BarnBridge Meme Competition (November)](https://gitcoin.co/issue/BarnBridge/Meme-Competitions/1/100024202)
  
-We actually have nine applications for the Spanish translation and we will be narrowing down those this week. But we currently have zero applications for Japanese. So if anyone knows Japanese, or is willing to help us out with that. Please reach out to us or apply for our gitcoin bounty so we can get that rolling.
+We actually have nine applications for the Spanish translation and we will be narrowing down those this week. But we currently have zero applications for Japanese. So if anyone knows Japanese, or is willing to help us out with that. Please reach out to us or apply for our Gitcoin bounty so we can get that rolling.
 
 As mentioned last week, we really want to be community-driven and offer as much as we can to the community to help with us. So, make a Gitcoin account if you don't have one and make a Github account if you don't have one because you will need a Github account in order to have a Gitcoin account.
 
@@ -174,7 +172,7 @@ Alright, just a quick rundown on operations and marketing. Some people were aski
 
 So I think that the partnership concept was so abused in the ICO days. So now we have moved to DeFi calling actual partnerships acquisitions. I know why the community is asking about partnerships, and essentially as far as what Akin is doing, I don't know how official you want to call a partnership.
 
-But we are working with Aave while on this call just launched the v2 of their protocol. We are also working with the Opium team on this general idea of standards. We also talked to ChainLink yesterday, about standards in particular, and how you verify on-chain assets and how oracles would be a player that could work with that.
+But we are working with Aave, who, while on this call just launched the v2 of their protocol. We are also working with the Opium team on this general idea of standards. We also talked to ChainLink yesterday, about standards in particular, and how you verify on-chain assets and how oracles would be a player that could work with that.
 
 The community can think of this as— we have all of these new on-chain tokenized representations of debt and derivatives off of those debts. Assets, how they're read on-chain will become somewhat of a cluster for the ecosystem, and we are trying to get out in front of it, to work with the community on some of those.
 
