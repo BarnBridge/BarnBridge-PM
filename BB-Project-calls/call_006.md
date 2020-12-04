@@ -7,7 +7,7 @@
 
 Moderator: Troy Murray
 
-Scribe: Dragos Rizescu or Rayne L.
+Scribe: Rayne L.
 
 Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Akin Sawyer, EJ Rogers, Mark Ward
 ## Intro
