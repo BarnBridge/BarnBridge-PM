@@ -245,7 +245,7 @@ Usually this is where we have the question section from the community, but there
 
 **Troy:** I think there will probably be a lot more questions once the products start shipping. Especially the DAO and everything. 
  
-**Pavlo:** We were seeing some questions about a telegram drop, and that. We are not doing any airdrops on Telegram. We just have one Telegram group and the only point of that group is to forward everybody to discord. Everything official has been on Discord and Twitter. Do not send your private keys, do not send your money anywhere. Just follow the official threads.
+**Pavlo:** We were seeing some questions about a telegram drop. We are not doing any airdrops on Telegram. We just have one Telegram group and the only point of that group is to forward everybody to discord. Everything official has been on Discord and Twitter. Do not send your private keys, do not send your money anywhere. Just follow the official threads.
 
 **Troy:** Yes.
 
@@ -259,9 +259,20 @@ Just ignore it, it looks like a scam and it feels like a scam. It's your guy's f
 
 In part of what we are trying to do is make sure that we are taking the best of what we've seen out there, and incorporating it into what we are doing. But also, ensuring that it aligns with our philosophy and our goals of making sure that this is a community owned project, and the community ultimately would have the power to drive decisions. 
 
-
 We're being deliberate over the next couple of weeks, to make sure we are dotting all the i's and crossing the t's. I think a lot of the conversations we've been having on the discord have been very helpful, because I think we have been leveraging people thoughts, and just having these discussions openly are helpful. 
 
-Just to tell the community, that governance for us is really at the top of the list.  
+Just to tell the community, that governance for us is really at the top of the list. We want to make sure we roll out a process that has incorporated the best ideas  out there, but also takes into consideration some of the conversations that have already started happening on our discord. So, hopefully when we launch it, it'll look a lot like a lot of the conversations that we have been having, and it shouldn't be too much of a surprise to too many people. 
 
+The hope is that we launch a governance process that is as good as we can when we start, and as we hand it over to the community, the community ultimately will drive how the process evolves over time.   
+
+**Troy:** I definitely think the conversation that's been going on in the discord is really great, and hopefully that will just expand as we keep rolling out these modules.
+
+So, if there is nothing else, I think we will call this.
+
+We will have one more project call before the end of the year.
+
+If everyones good, I think we're going to sign off and see you all on discord.
+
+
+**Everyone:** Bye!👋
 
