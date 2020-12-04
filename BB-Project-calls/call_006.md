@@ -4,9 +4,10 @@
 ### [Github Agenda Page](https://github.com/BarnBridge/BarnBridge-PM/issues/8)
 ### [Audio/Video of the meeting](https://youtu.be/-skbfvP8S8s)
 ### Breakdown:
-  Moderator: Troy Murray
 
-Scribe:
+Moderator: Troy Murray
+
+Scribe: Dragos Rizescu or Rayne L.
 
 Attendees: Keegan Selby, Vitaliy Chernyak, Pavlo Bendus, Troy Murray, Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Akin Sawyer, EJ Rogers, Mark Ward
 ## Intro
@@ -44,7 +45,9 @@ Back to you Bogdan.
 
 Back end work is in progress, there is a data pipeline working that will replace the old graphs. We are slowly feeding data to the front end, internal reviews are in progress.
 
-All of our smart contract developers plus, our advisors at ___ are looking at the smart contracts to make sure that everything is in order and works as it should. We have ___ audits already booked with contracts signed. The first one starts next week and the other one later in the month or early 2021.
+All of our smart contract developers plus, our advisors at ___ are looking at the smart contracts to make sure that everything is in order and works as it should. We have ___ audits already booked with contracts signed. 
+
+The first one starts next week and the other one later in the month or early 2021.
 
 That's pretty much it for the DAO.
 
@@ -103,9 +106,7 @@ At least a base level of disclosures that let you know;
  * *What's important to ask?*
  * *What's important information you should know about these assets?*
 
-**Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that.
-
-We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomenclatures— things that people can easily find and reference as they buy and sell out products.
+**Akin:** Something that gives you the full sense of the risks you're buying into. So, we want to publish that and create a standard around that. We are talking with some of the partners who have been engaging around this idea, and the hope is to be able to publish a list of disclosures, nomenclatures— things that people can easily find and reference as they buy and sell out products.
 
 Another thing, we have also started thinking about some ideas around being able to verify proofs of liquidity in our assets. Because we are partnering with third parties and we are tranching debt products that already exist from our partners. Over time, as we get more and more partners and products, we can see how it can get relatively complex. In terms of whos originating debt and what are we tranching, and what are the various tranches.
 
