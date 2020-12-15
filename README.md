@@ -20,7 +20,7 @@
  4  | Thu, Nov 5, 2020 14:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/6) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_004.md)     | [video](https://youtu.be/A_ekgo85kE8) | 
  5  | Thu, Nov 19, 2020 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/7) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_005.md)     | [video](https://youtu.be/Zu372iqTrvI) |  
  6  | Thu, Dec 3, 2020 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/8) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_006.md)     | [video](https://youtu.be/-skbfvP8S8s) |   
- 7  | Thu, Dec 17, 2020 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/9) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_007.md)     | [video]() |   
+ 7  | Thu, Dec 17, 2020 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/10) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_007.md)     | [video]() |   
 
 
 
