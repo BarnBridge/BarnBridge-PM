@@ -10,3 +10,7 @@ Moderator: Troy Murray
 Scribe: 
 
 Attendees: 
+
+
+### COMING SOON!!
+## [BOUNTY IS UP](https://gitcoin.co/issue/BarnBridge/Project-Call-Notes-/2/100024420)
