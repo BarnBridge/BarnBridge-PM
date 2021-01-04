@@ -13,4 +13,4 @@ Attendees:
 
 
 ### COMING SOON!!
-## [BOUNTY IS UP](https://gitcoin.co/issue/BarnBridge/Project-Call-Notes-/2/100024420)
+## [BOUNTY IS UP](https://gitcoin.co/issue/BarnBridge/BarnBridge-PM/11/100024563)
