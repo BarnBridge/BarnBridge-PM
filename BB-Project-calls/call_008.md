@@ -11,6 +11,13 @@ Scribe: Rayne L.
 
 Attendees: 
 
+## Intro
 
-### COMING SOON!!
-## [BOUNTY IS UP](https://gitcoin.co/issue/BarnBridge/BarnBridge-PM/11/100024563)
+# Tech/Dev
+## BarnBridge App
+### BBDAO
+### Smart Yield BOND
+### Smart Alpha BOND
+# Bounties
+# Operations/Marketing Run down
+# Round Table
