@@ -7,7 +7,7 @@
 
 Moderator: Troy Murray
 
-Scribe: 
+Scribe: Rayne L.
 
 Attendees: 
 
