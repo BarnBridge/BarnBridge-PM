@@ -13,11 +13,23 @@ Attendees:
 
 ## Intro
 
+**Troy:** Welcome to project call 008! It's the new year 2021 has started. We are full steam ahead with product launching and the DAO. Based on the roadmap, we are looking at the end of January. Mid-late February for the smart yield product.
+
+I'll be passing it on to Bogdan for updates on the products.
+
 # Tech/Dev
 ## BarnBridge App
+
+**Bogdan:**
+
 ### BBDAO
+
 ### Smart Yield BOND
+
 ### Smart Alpha BOND
+
 # Bounties
+
 # Operations/Marketing Run down
+
 # Round Table
