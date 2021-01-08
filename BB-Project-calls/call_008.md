@@ -141,7 +141,7 @@ We've been pretty heads down on getting shit done.
 
 **Troy:** I'd just like to add, there's been a lot of exciting talk around what's possible with SMART ALPHA. I would like to push the community to keep expanding on different use cases. One of the recent ones we heard about was juicing AAVE yield— which I thought was an interesting idea. That came from Santiago over at ParaFi. There's a lot of different things we can do with SMART ALPHA. Again I just want to encourage the community to push innovation because it will help us determine what to focus on when we launch.
 
-**Tyler:** Actually, and not to derail this, but I heard a cool one yesterday. I was in an interview with Constantine, Keegan you introduced me to him. He said, "If this is SMART ALPHA, what's SMART BETA?" I had never thought about that before. But once he asked me, I thought about it, and I realized that's a good idea. Because you could take our SMART ALPHA technology, and you could take an index like DPI. Because everything inside the SMART ALPHA will have a peg like DAI or USDC. So if you used Synthetix DPI as the peg or vice-versa, you could judge the performance of assets against a particular index. You would have the option to buy an overcollateralized position or an undercollateralized position. 
+**Tyler:** Actually, and not to derail this, but I heard a cool one yesterday. I was in an interview with Constantin, Keegan you introduced me to him. He said, "If this is SMART ALPHA, what's SMART BETA?" I had never thought about that before. But once he asked me, I thought about it, and I realized that's a good idea. Because you could take our SMART ALPHA technology, and you could take an index like DPI. Because everything inside the SMART ALPHA will have a peg like DAI or USDC. So if you used Synthetix DPI as the peg or vice-versa, you could judge the performance of assets against a particular index. You would have the option to buy an overcollateralized position or an undercollateralized position. 
 
 For example: 
 
@@ -156,3 +156,56 @@ We could make SMART BETA with ease using the technology of SMART ALPHA. The prob
 **Troy:** Alright, cool. We can turn it over to the round table.
 
 # Round Table
+
+**Troy:** Now anyone can talk about stuff that was not on the agenda. 
+
+One of the things that did come up in the Discord by Homer Shillson— which is a great name, by the way! Bogdan, this question is kind of for you or anyone in the Q branch. 
+
+The question is; 
+
+> "How will Bond staking be transferred to the DAO staking?"
+
+**Bogdan:** I think I unwillingly already answered that.
+
+**Troy:** Actually, yeah, you did kind of. You could re-cap it.
+
+**Bogdan:** Yeah, so when POOL 3 ends on February 7th, which I believe is a Sunday. Hopefully, there will not be any delays between the end of the pool and the launch of DAO staking. So, people currently staking BOND in POOL 3 can withdraw and deposit their BOND in the DAO staking contract. They should get the same rewards but through a slightly different mechanic. I don't think this is the time to discuss that, but we will release the differences and the reasoning behind the new rewards mechanism. 
+
+**Troy:** Yeah, I don't think we need to 100% go into the mechanism on that yet. We should save it.
+
+Alright, cool. The next thing that was asked was:
+
+>  "What will be set in stone from day one when the DAO launches?"
+
+This is in regards to what can you do initially? Obvious first things are rewards and submitting proposals. However, our governance structure is not the same as everyone else's. It's similar to Compound, but there are other things to take into account.
+
+Would you guys agree?
+
+**Everyone:** In agreeance.
+
+**Bogdan:** 😎👍
+
+**Troy:** Alright. Okay, well, with that, is there anything else anybody would like to talk about?
+
+**Akin:** Yes, I have some things to add about the DAO. A lot of design choices we've made. And the direction we're heading is really to incentivize a lot of activity within the DAO. To provide quite a bit of latitude for DAO staker's to submit proposals and extend ideas— really build an ecosystem around actively using our governance process as a way to discuss, share ideas and create proposals. 
+
+I'm looking forward to spending a lot more time discussing things as a community and beyond because I have a few ideas of my own. And to encourage community ideas but even partners who could be looking for opportunities to build and work with us. Leveraging the DAO process and bringing them in will also be interesting— seeing how it evolves. I'm hopeful we've made the right decisions. Once we've launched the DAO, it will become clear as to how people will engage. And how we've prioritized holders of BOND. Giving them a lot of say in our future direction.
+
+**Troy:** I'm definitely interested to see what the conversations bring up inside the discord. And what people want to use. Which is what I was kind of getting at with the SMART ALPHA because I would like to have it in a position for people to be able to take it and build with it from the beginning. So, yeah, I'm looking forward to everything.
+
+**Keegan:** I got something real quick on the topic of Constantin. EJ and I had a podcast where we dove into the three liquidity mining pools and the various risk/reward potential associated with those. A little tutorial about getting involved, an overview of what Barn Bridge is, and the products on our roadmap. And what the products aim to accomplish. If you're interested in any of that, there are multiple tutorials out there, but this one is quite detailed, click-by-click how to start earning BOND through the three pools. 
+
+It's called; [🥁Fourth Industrial Revolution, Smart Yield with Barnbridge & Synthetix (w Keegan Selby & EJ Rogers)](https://www.youtube.com/watch?v=kL751DTr3vc) 
+
+The podcast is; [Holistic Investment w Constantin Kogan](https://podcasts.apple.com/us/podcast/holistic-investment-w-constantin-kogan/id1511665533)
+
+So if anyone is interested, there is another tutorial video.
+
+**Troy:** We will definitely link that in the Twitter breakdown. If there is nothing else, I think we can sign-off and get back to heads down. Is everyone good?
+
+**Everyone:** 👍
+
+**Troy:** Alright, well everyone, welcome to 2021. Big quarter for us! We'll see you all in two weeks! And in the discord! 
+
+**Everyone:** Bye! 👋✌️
+
