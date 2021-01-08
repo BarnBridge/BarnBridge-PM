@@ -68,7 +68,19 @@ I also want to add— what's been going on with standards. This will be a pretty
 
 ## DeFi Standards
 
-**Akin:**
+**Akin:** Happy New Year, everybody! 🎊🎉
+
+So from where we left off last time, we pretty much have an internal draft for DeFi standards. We are just passing it around and making sure that everyone has input and that the first versions are robust enough to encompass our first two products. We have external reviews with some of our partners helping create these standards. We are getting their inputs to help make adjustments and potentially improve them. 
+
+Conservatively over the next two weeks, we should have the documents finalized and published in a blog post or something similar and incorporate it into the BarnBridge website. This also feeds into our broader discussions with other partners around extending our standards forward— within two to four weeks, we should expand more on that and share meaningful information.
+
+The other point to note is that it will accelerate more conversations with potential partners that would appreciate being involved in this initiative. Also, it will extend into additional partnerships with teams that would want to leverage the BarnBridge platform. I'm beginning to have those conversations as we get close to launch. So at least they're already in the pipeline, and there are discussions around that. So people can understand how to interact with our platform right away and get things going relatively quickly once we have launched the governance and our initial products. 
+
+That's pretty much it.
+
+**Troy:** I think that's a good primer for what we are preparing to do with standards and our products.
+
+Mark will give an update on the bounties!
 
 ## Bounties
 
