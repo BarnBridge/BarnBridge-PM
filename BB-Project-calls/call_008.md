@@ -9,7 +9,7 @@ Moderator: Troy Murray
 
 Scribe: Rayne L.
 
-Attendees: Vitaliy Chernyak, Milad Mostavi, Pavlo Bendus, Troy Murray, Bogdan Gheorghe, Tyler Ward, Dragos Rizescu, Akin Sawyer, Vlad Suciu, EJ Rogers, Keegan Selby, Mark Ward
+Attendees: Vitalik Chernyak, Milad Mostavi, Pavlo Bendus, Troy Murray, Bogdan Gheorghe, Tyler Ward, Dragos Rizescu, Akin Sawyer, Vlad Suciu, EJ Rogers, Keegan Selby, Mark Ward
 
 ## Intro
 
@@ -84,7 +84,37 @@ Mark will give an update on the bounties!
 
 ## Bounties
 
+**Mark:** Hey everyone, my name is Mark. I'm going to update you all on the bounties.
 
+I just recently put up all the meme bounties for the competition again. I've had questions regarding them, and we still are doing the meme comps! Keep em' coming in the discord. We love your memes. I know Tyler's been missing some of the Amish memes a little bit— those are his favourite. 
+
+So, bring some Amish meme's to start the 2021 year.👨‍🌾🚜
+
+Also, a project that I will need help with within the next week or two. I'll need someone from Messari to help build a profile for BarnBridge on their platform. I'll be setting up the bounty today. So if anyone from Messari is watching or knows how to create profiles. Please reach out to me in the discord on how to do this. Or reach out on Gitcoin, and I can approve you for the bounty. We can discuss it in DM's.
+
+We are looking for new ways to allow dev bug bounties.
+
+**Tyler:** One quick thing. Sorry for interrupting. About Messari, I've gone through that process with Andrew for Dharma Captial, so I have a list of emails for this. Reach out to me, and we can get this done.
+
+**Mark:** Okay, cool. 
+
+**Keegan:** We'll get into it with Jack Purdy at Messari. He's a close friend of ours.
+
+**Mark:** Great, that will be easily handled. We'll set up a bounty for that and have someone from their team help us out.
+
+**Troy:** Was Ser M handling that?
+
+**Tyler:** Yeah, he can help out. We will take this offline and coordinate with everybody. It sounds as if a few of us know people at Messari.
+
+**Troy:** What about the translations? How are those going? 
+
+**Mark:** We have just recently translated Portuguese, European-Spanish. And Japanese just finished— we are just ironing out the details. Pablo and Vitalik are launching updates to the Russian, Spanish and Portuguese languages on the website. So look forward to the new translations of the website and the whitepaper. We have not changed the UI of any of the apps to other languages. We are still deciding when to do that.
+
+We are making progress on the bounties and translating our project into more languages so that everyone can learn.
+
+**Troy:** That's a good update for 2021. Where it's going and what we're doing. We should be expanding because I expect more Gitcoin integrations in the future, just based on conversations I've had with people. So look forward to that, everyone!
+
+I'll hand it over to Tyler for an update on operations and marketing.
 
 ## Operations/Marketing Run down
 
