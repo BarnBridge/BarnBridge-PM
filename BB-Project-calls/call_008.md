@@ -62,7 +62,9 @@ I believe that's it! 😎👌
 
 **Troy:** Cool! Thank you, Bodgan, for the update.
 
-I just want to add, Tyler and I are focused heavily on the audits. We want to make sure that they happen promptly. But so the community knows, audits are hard to come by right now. Things can get slowed down. We give a timeline, but we are still controlled by other teams that need to do audits. Even if we book them, sometimes things happen. I just want to manage people's expectations. 
+### Audits
+
+**Troy:** I just want to add, Tyler and I are focused heavily on the audits. We want to make sure that they happen promptly. But so the community knows, audits are hard to come by right now. Things can get slowed down. We give a timeline, but we are still controlled by other teams that need to do audits. Even if we book them, sometimes things happen. I just want to manage people's expectations. 
 
 I also want to add— what's been going on with standards. This will be a pretty big initiative in Q1 & Q2 that rolls into something bigger. I don't want to talk about it yet, because I can't. Can't alpha leak. I want to turn it over to Akin for an update on DeFi standards.
 
@@ -143,9 +145,11 @@ We've been pretty heads down on getting shit done.
 
 For example: 
 
-1. *I'm bullish DPI, and long on the assets in the index. But I'm impartial to a specific asset in the basket—* **you buy the undercollateralized position.**
+* *I'm bullish DPI, and long on the assets in the index. But I'm impartial to a specific asset in the basket*
+   * **You buy the undercollateralized position.**
 
-2. *I want to own all of DPI, but I'm really bullish on Synthetix—* **you buy a 70% price tranche for it.**
+* *I want to own all of DPI, but I'm really bullish on Synthetix*
+   * **You buy a 70% price tranche for it.**
 
 We could make SMART BETA with ease using the technology of SMART ALPHA. The problem with indexes is liquidity. You need liquidity for all the assets in an index & the inverse. We may want to create our own index of three assets to start with. SMART BETA is a cool concept as long as we can get liquidity right. I don't think it's a technical uplift, just a liquidity uplift.
 
