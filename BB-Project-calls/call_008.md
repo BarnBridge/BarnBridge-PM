@@ -11,14 +11,14 @@ Scribe: Rayne L.
 
 Attendees: Vitalik Chernyak, Milad Mostavi, Pavlo Bendus, Troy Murray, Bogdan Gheorghe, Tyler Ward, Dragos Rizescu, Akin Sawyer, Vlad Suciu, EJ Rogers, Keegan Selby, Mark Ward
 
-## Intro
+## Intro [[00:00]](https://youtu.be/MZsCqMeeWaM)
 
 **Troy:** Welcome to project call 008! It's the new year 2021 has started. We are full steam ahead with product launching and the DAO. Based on the roadmap, we are looking at the end of January. Mid-late February for the smart yield product.
 
 I'll be passing it on to Bogdan for updates on the products.
 
 # Tech/Dev
-## BarnBridge App
+## BarnBridge App [[00:31]](https://youtu.be/MZsCqMeeWaM?t=31)
 
 **Bogdan:** Hello people, Happy New Year. 👋😎🥳
 
@@ -28,7 +28,7 @@ Yield farming, we've had people in discord and on social media asking about POOL
 
 There will be no more deposits into POOL 3 after the end of the epochs. However, staking BOND for BOND will remain available, but it moves to the DAO, where there will be a similar but different distribution mechanism. 
 
-### BBDAO
+### BBDAO [[01:20]](https://youtu.be/MZsCqMeeWaM?t=80)
 
 **Bogdan:** Smart contracts and audits, code is finished but still undergoing audits. Unfortunately, even auditors need their holidays. 😅          But good news, we are going to have them done by the end of the month. That's going to give us plenty of time to address changes. That puts the DAO launch around the 2nd week of February. We want to have the audits finished and incorporate any changes that may come from those. We also have POOL 3 migration— a smooth transition to the DAO staking.
 
@@ -42,13 +42,13 @@ So, next call— that's a promise to walk you through the product and have a loo
  
 That's it for the DAO.
 
-### Smart Yield BOND
+### Smart Yield BOND [[03:43]](https://youtu.be/MZsCqMeeWaM?t=223)
 
 **Bogdan:** Smart contracts, audits, and development are in progress. We are just writing tests for the code. Wrapping up the final steps. The code will be opened up for auditors starting next week. This will be the first time outside eyes get to look at the code.
 
 Backend— not too exciting. Specs are in progress, and everything is going to plan. Frontend, we just had a walkthrough for the UI. We are walking through it with the team and making sure we are not missing anything. Ensuring the whole experience looks and feels like it's supposed to. The same as last time, the frontend work is not yet started because we are still on the UI— the difficult part is the user interface and the user experience.
 
-### Smart Alpha BOND
+### Smart Alpha BOND [[04:46]](https://youtu.be/MZsCqMeeWaM?t=286)
 
 **Bogdan:** Smart contracts and audits, our friends and advisors at Atpar are working on the framework for both versions of the SMART ALPHA contracts that we will rely on. It's all going well. No unsolvable problems, just unsolved problems— it's looking good. We have seen cool models.
 
@@ -62,13 +62,13 @@ I believe that's it! 😎👌
 
 **Troy:** Cool! Thank you, Bodgan, for the update.
 
-### Audits
+### Audits [[06:15]](https://youtu.be/MZsCqMeeWaM?t=375)
 
 **Troy:** I just want to add, Tyler and I are focused heavily on the audits. We want to make sure that they happen promptly. But so the community knows, audits are hard to come by right now. Things can get slowed down. We give a timeline, but we are still controlled by other teams that need to do audits. Even if we book them, sometimes things happen. I just want to manage people's expectations. 
 
 I also want to add— what's been going on with standards. This will be a pretty big initiative in Q1 & Q2 that rolls into something bigger. I don't want to talk about it yet, because I can't. Can't alpha leak. I want to turn it over to Akin for an update on DeFi standards.
 
-## DeFi Standards
+## DeFi Standards [[07:15]](https://youtu.be/MZsCqMeeWaM?t=435)
 
 **Akin:** Happy New Year, everybody! 🎊🎉
 
@@ -84,7 +84,7 @@ That's pretty much it.
 
 Mark will give an update on the bounties!
 
-## Bounties
+## Bounties [[09:47]](https://youtu.be/MZsCqMeeWaM?t=587)
 
 **Mark:** Hey everyone, my name is Mark. I'm going to update you all on the bounties.
 
@@ -118,7 +118,7 @@ We are making progress on the bounties and translating our project into more lan
 
 I'll hand it over to Tyler for an update on operations and marketing.
 
-## Operations/Marketing Run down
+## Operations/Marketing Run down [[13:40]](https://youtu.be/MZsCqMeeWaM?t=820)
 
 **Tyler:** I'll just start with— we have a lot of updates coming out. 
 
@@ -155,7 +155,7 @@ We could make SMART BETA with ease using the technology of SMART ALPHA. The prob
 
 **Troy:** Alright, cool. We can turn it over to the round table.
 
-# Round Table
+# Round Table [[19:50]](https://youtu.be/MZsCqMeeWaM?t=1190)
 
 **Troy:** Now anyone can talk about stuff that was not on the agenda. 
 
