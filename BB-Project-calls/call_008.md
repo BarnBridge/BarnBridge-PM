@@ -118,6 +118,37 @@ I'll hand it over to Tyler for an update on operations and marketing.
 
 ## Operations/Marketing Run down
 
+**Tyler:** I'll just start with— we have a lot of updates coming out. 
 
+As far as [Bond.Bet](https://bond.bet/) I'll approach first because I started a channel in the discord. If everyone would look at the website and provide feedback for that, we just started the smart contract work to do the integrations with pool together. It's coming along, and it should be done soon. We could launch some of the integrations with pool together before the DAO. But because of some of the DAO's staking mechanisms, we have to wait. We are holding off on announcing it for a bit until I can flesh out the best way to do that. That will just take me a bit of time over the weekend to write a Medium article about it. 
+
+We owe everyone an updated roadmap. We'll do a rudimentary one running into the end of SMART YIELD. Then we can re-group as a team and consider the path forward. Once we launch Bond.Bet we will be launching the DAO. I assume we will play around with the DAO for a few weeks before-hand. By the time we are done playing around with that, I expect SMART YIELD to launch. 
+
+We're also working with our investors on how to approach partnerships. I know Akin has been doing a ton of work on keeping a loose CRM of potential partnerships as we get closer and closer. Most connections will come from the SMART ALPHA product because of all the different advantages and use cases. Whether you are putting insurance products into it or an automated market maker. Providing liquidity tokens to it to compensate for impermanent loss. 
+
+Not theoretical, but practical use cases are the areas where large partnerships will come from. Like ETH staking, but that won't come out until V1 of SMART ALPHA. The highest demand at the end of the day will likely be in ETH/DAI and WBTC/DAI. We need to get those up and running before worrying about the down-funnel. But just as a heads up, let's say SMART ALPHA comes out in March, then the collaborations and use cases that come with a launch will naturally happen after that.
+
+There is another update I would like to give right now, but there is another sizeable Medium article that I need to finish first. 
+
+So, I'll hold up, and everybody can just follow: 
+* [Twitter](https://twitter.com/barn_bridge) 
+* [Discord](https://discord.gg/bGEqrNdckT)
+* [Medium](https://medium.com/barnbridge) 
+
+We've been pretty heads down on getting shit done.
+
+**Troy:** I'd just like to add, there's been a lot of exciting talk around what's possible with SMART ALPHA. I would like to push the community to keep expanding on different use cases. One of the recent ones we heard about was juicing AAVE yield— which I thought was an interesting idea. That came from Santiago over at ParaFi. There's a lot of different things we can do with SMART ALPHA. Again I just want to encourage the community to push innovation because it will help us determine what to focus on when we launch.
+
+**Tyler:** Actually, and not to derail this, but I heard a cool one yesterday. I was in an interview with Constantine, Keegan you introduced me to him. He said, "If this is SMART ALPHA, what's SMART BETA?" I had never thought about that before. But once he asked me, I thought about it, and I realized that's a good idea. Because you could take our SMART ALPHA technology, and you could take an index like DPI. Because everything inside the SMART ALPHA will have a peg like DAI or USDC. So if you used Synthetix DPI as the peg or vice-versa, you could judge the performance of assets against a particular index. You would have the option to buy an overcollateralized position or an undercollateralized position. 
+
+For example: 
+
+1. *I'm bullish DPI, and long on the assets in the index. But I'm impartial to a specific asset in the basket—* **you buy the undercollateralized position.**
+
+2. *I want to own all of DPI, but I'm really bullish on Synthetix—* **you buy a 70% price tranche for it.**
+
+We could make SMART BETA with ease using the technology of SMART ALPHA. The problem with indexes is liquidity. You need liquidity for all the assets in an index & the inverse. We may want to create our own index of three assets to start with. SMART BETA is a cool concept as long as we can get liquidity right. I don't think it's a technical uplift, just a liquidity uplift.
+
+**Troy:** Alright, cool. We can turn it over to the round table.
 
 # Round Table
