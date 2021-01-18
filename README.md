@@ -4,7 +4,7 @@
 ### [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.com/) / [Discord](https://discord.gg/s9Z6HJH)
 
 ## **Operations**
-### [Clubhouse](https://app.clubhouse.io/barnbridge/dashboard) / [LaunchDAO](https://mainnet.aragon.org/#/barnbridgelaunch/)
+### [Clubhouse](https://app.clubhouse.io/barnbridge/dashboard) / [LaunchDAO](https://mainnet.aragon.org/#/barnbridgelaunch/) / [BB DAO Snapshot](https://signal.barnbridge.com/)
 
 ## **Audits**
 ### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge-Yield-Farming-and-Incentivization-AUDIT.pdf)
