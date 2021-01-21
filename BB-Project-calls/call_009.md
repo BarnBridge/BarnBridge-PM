@@ -9,7 +9,7 @@ Moderator: Troy Murray
 
 Scribe: Rayne L.
 
-Attendees: Mark Ward, Akin Sawyer, EJ Rodgers, Troy Murray, Vitaly Chernyak, Pavlo Bendus, Milad Mostavi, Dragos Rizescu, Tyler Ward, Bodgan Gheorghe, Keegan Selby
+Attendees: Mark Ward, Akin Sawyer, EJ Rodgers, Troy Murray, Vitalk Chernyak, Pavlo Bendus, Milad Mostavi, Dragos Rizescu, Tyler Ward, Bodgan Gheorghe, Keegan Selby
 
 ## Intro
 
