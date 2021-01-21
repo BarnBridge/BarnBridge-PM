@@ -32,11 +32,29 @@ Hopping into the tech and dev side, we will be handing it off to Dragos–the on
 
 Please ser. 
 
-
-
 # Tech/Dev
 
-## BarnBridge Snapshot
+## BarnBridge– Snapshot
+
+**Dragos:** I'm just going to start it off and then hand it over to Bogdan. I'm going to mention this one thing I'll share on my screen in a second– if I can find the correct one!   
+
+> **Sharing Screen** [[2:00]](https://youtu.be/qP4SSKuDFOs?t=120)
+
+We have the BarnBridge snapshot up. You can now search up BarnBridge, where you will find our page and proposals.
+
+You can use two links to get there:
+https://signal.barnbridge.com/
+https://snapshot.page/#/barnbridge.eth
+
+All the discussions will take place on Github. We are still tweaking things, but we will be ready for the DAO launch.
+
+With that said, I'm going to stop sharing my screen.
+
+> **Screen Sharing Ends** [[2:35]](https://youtu.be/qP4SSKuDFOs?t=155)
+
+I'm going to hand it off to Mr. Bogdan G. You all know him. You all love him.
+
+Bogdan G. 😎
 
 ## BarnBridge App
 
