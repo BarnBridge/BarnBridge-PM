@@ -190,6 +190,47 @@ So if you see me, pull me aside, introduce yourself and say what's up! I'm looki
 
 ## Website/Discord Community Update
 
+**Pavlo:** A few words about the website before we touch on Discord. Almost all pages of the website are translated into four languages. Three more are nearly complete, Spanish, Portuguese, and Russian. So if English is not your native tongue, you can now view the website in your respective language. We are also working on the German translations.
+
+Now, talking about Discord. First of all, I want to say I am excited about your guys' engagement. I've seen plenty of people saying we have a very active Discord. I agree, and so, thank you and keep it up. We're working hard on updating the FAQ bot and adding more information. We will be updating that for the upcoming DAO and Smart Yield and Alpha products. So everyone will stay updated. That's about it. 
+
+**Troy:** Okay. So, last and not least, we have Tyler with the Operations and Marketing Rundown.
+
 ## Operations/Marketing Rundown
 
+**Tyer:** First of all, since the community can't see. The reason I'm wearing this shirt– it has a BarnBridge logo. Some of my employees at Proof Systems and some of the BarnBridge team designed it. Mostly the Ukraine team, Pavlo, Vitaly who you know. And Deema, the original designer of the BarnBridge logo and did original branding before Denis took over and started doing the work we have now. And ___ he does a lot of stuff for us, and I don't know who else has worked with him, but he is like a night-ninja badass. He built the original website. They got this shirt for me, so I want to give them a shout out and say thank you. And Keegan and EJ for the BarnBridge socks. 
+
+So, as far as practical matters. We have posts coming out about the standards and the work that Akin, Troy and I pushed forward with Opium and Aave. We also have an article about Bond.Bet coming out and the work we've done there. The contracts are done on the 29th. Our team will be looking at them so, Milad will have to check to ensure there are no vulnerabilities. I used a third party team to get that done because it was mainly UI and react work that needed to be done and not a ton of smart contract work. 
+
+But I will say as a shout out to the dev team that built Bond.Bet has built a lot of things in the space. They designed the staking contracts for AllianceBlock. They have done work for one of my Proof clients, and they got a letter from the SEC saying that their coin was cool. Needless to say, it's a legit team building Bond.Bet and the team said– the DAO staking contracts and work Bogdan provided was the most beautiful and best-written solidity they have ever seen. 
+
+When we start to release things on the dev side, people will begin to understand why I believe we have some of the best developers in crypto. We will let people figure it out on their own. Other than that, Bond.Bet will start getting announced, but I don't want to reveal too much until I speak to Pool Together today. 
+
+We are working on a few other things that have to do with partnerships with prominent protocols. 4th revolution capital has helped us a lot, and Santiago at ParaFi has helped us a lot with that. I don't want to name protocols because; 
+
+A) It's leaking Alpha
+B) We need to push this stuff across the finish line first
+
+You guys can read between the lines about who you think we would most likely want to be working with in that regard. Most of this stuff will get pushed out through grants. Keep an eye on what Mark's been working on with grants because they will keep growing. 
+
+Other than that, I've been on calls all week. I'm losing track of time. But there has been a ton of work done behind the scenes to get this across the finish line. We are excited about what's coming.
+
+**Mark:** One more thing,  this wasn't Github related. We had a request to establish a Messari profile. So we reached out and got that done this week. So if anyone likes that resource, look for BarnBridge coming to that soon. 
+
+**Tyler:** What we're doing with them should be relevant for funds. I don't know how many funds watch community calls. All that informational stuff that Messari does we are working on bringing together. I feel like I may be forgetting something, but there is a ton going on.
+
+**Troy:** I don't think you missed anything.
+
 # Round Table
+
+**Troy:** It's time for the roundtable. There were not any questions this week. Although, there was a bit from Ser Homer Shillson.
+
+**Tyler:** I love that guy! Big shout out to Homer Shillson. 
+
+**Troy:** Yeah! Big shout out to Homer. We all like that guy. I love that we have Simpsons memes coming from all over because of that guy. He asked about the multiplier and the time lock multiplier, but we covered that in the DAO walkthrough. The DAO rewards will come from a pool at first. 
+
+With that, I believe we have covered the last two weeks. For the next call– it's a big one, so tune in! And we look forward to seeing you all in two weeks. 
+
+If there is nothing else...then we are going to sign off. ✌️
+
+**Everyone:** 👋
