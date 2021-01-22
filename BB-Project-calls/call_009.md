@@ -208,8 +208,8 @@ When we start to release things on the dev side, people will begin to understand
 
 We are working on a few other things that have to do with partnerships with prominent protocols. 4th revolution capital has helped us a lot, and Santiago at ParaFi has helped us a lot with that. I don't want to name protocols because; 
 
-A) It's leaking Alpha
-B) We need to push this stuff across the finish line first
+- A) It's leaking Alpha
+- B) We need to push this stuff across the finish line first
 
 You guys can read between the lines about who you think we would most likely want to be working with in that regard. Most of this stuff will get pushed out through grants. Keep an eye on what Mark's been working on with grants because they will keep growing. 
 
