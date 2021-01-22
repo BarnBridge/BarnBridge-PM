@@ -128,10 +128,33 @@ That's why I hide my eyes...😎 so you can't see the tears. 💧
 
 > [Update](https://twitter.com/CoinbaseCustody/status/1348739247277268997?s=20)- In case you missed it.
 
-So, just to give a quick update. A lot of the community probably noticed we were added to [Coinbase Custody](https://custody.coinbase.com/assets). Which was a long time coming. A lot of hard work went into getting that done. Big support from the team on that.
-
+**Troy:** Just to give a quick update. A lot of the community probably noticed we were added to [Coinbase Custody](https://custody.coinbase.com/assets)— which was a long time coming. A lot of hard work went into getting that done. There was a large amount of support from the team on that.
 
 ### AAVE Support
+
+**Troy:** Another noticeable thing we did– we submitted to Aave to get BOND listed on the collateral list used for their lending protocol. It's currently under review by their risk-team. 
+
+So the protocol is:
+
+* You submit the [AIP](https://aave.github.io/aip/)- (Aave Improvement Proposal)
+* The risk-team looks at the AIP, and you receive a grade
+* The proposal's put on-chain (Usually two-weeks)
+
+I'm hoping the risk-team stays on top of things. Apparently, they are very busy. Fingers crossed there is news on that by the next time we talk. We should be hearing positive movements there by next week.
+
+**Tyler:** I want to add some things about listings. So that everyone in the community knows. Sorry for interrupting you, Troy. 
+
+We get a ton of questions about when we are listing with major exchanges. I want everyone to know that the reason why large North American exchanges won't list you for retail customers until you have a live product with utility— there are regulatory reasons. And for those same reasons, we shouldn't be pushing for listing on any major exchanges. At the least until the DAO launches and most likely not until Smart Yield goes live. 
+
+For every one that asks: Wen this exchange? Wen that exchange?
+
+Other than Binance because they have a different set of rules in Asia. The legit exchanges are not going to list us. For the same reasons, we should not be trying to get listed. Without products, anyone acquiring BOND right now is purely speculating. When there is actual utility, then that gives everyone a reason to want to obtain BOND. 
+
+I want the community to know that. So the community stops asking about listings. It's not like we are slacking or not doing our jobs. We should wait until we have released products before making pushes towards those things. 
+
+Troy, you can go back to what you were saying. 
+
+**Troy:** Okay, so I was going to segway into bounties. So I'll pass it to Mark to give an update about that and the Bitcoin talk post. 
 
 ## Bounties/Bitcoin Talk
 
