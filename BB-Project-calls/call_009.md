@@ -158,6 +158,36 @@ Troy, you can go back to what you were saying.
 
 ## Bounties/Bitcoin Talk
 
+**Mark:** We had someone reach out to us on Discord– we were looking for someone to help us with a Bitcoin talk post. We were not necessarily sure if us posting directly was going to be enough. Someone was nice enough to reach out to give us the ability to post from an aged account. We are working on that post now, and it should be up within the next two days. If any of you are apart of the Bitcoin talk platform, look for that post it'll be in the alt-coin section. I know sometimes things get hidden in that section, but that's where we were recommended to post it. So if you look for it, that's where it will be. 
+
+One major thing we are looking for help within the bounty programs. We need some people who can proof-read Japanese. I've had a lot of trouble finding proofreaders. We've translated the website and the whitepaper, but there hasn't been a way to proof-read it. 
+
+**Tyler:** Mark, I can help with that. Follow up with me after the call. The Centrality team that invested in BarnBridge during the seed round has a lot of Japanese connections. I know a few Japanese people as well. They told me – the translation cost per-word in crypto that we offered was below the typical threshold, and there are pretty strict standards already.
+
+I have people in my DM's that can take care of this. So let's take this offline, and I can take care of it with you. 
+
+**Mark:** Cool. Then for right now, we do not have a lot of bounties active outside of those. We are working on getting more bounties for the community. Right now, the main thing is the meme competition. Tyler has been enjoying and using quite a few of those memes. 
+
+One request from Tyler this past week– we've had plenty of memes about price, and although they are funny, they are not as useful– because Tyler cannot post the memes about the price. Price memes are fun and all, but those memes are not as valuable. The meaning of the memes are for us to have some ammunition, and everyone can have some fun. We certainly appreciate it, but I say hold off on the price memes. Because they are most likely never going to be used officially by BarnBridge.
+
+**Tyler:** Yeah, with official BarnBridge things, we cannot comment on the price. No-one on this call can talk about the price of BarnBridge, because it was a valueless governance token when we launched it. The community can say whatever they would like. We won't censor your freedom of speech. But we cannot use those memes for anything official. 
+
+**Mark:** Yeah, I was putting that out there. We may pick it as a winner, but there's practically no chance we ever use it officially.
+
+**Troy:** If anyone is going to Bitcoin week in Miami. In two weeks?
+
+**Mark:** I believe it's next week.
+
+**Troy:** Next week, our own Mark Ward will be there. So, be on the lookout for Mark. 
+
+**Mark:** I will be speaking about Blockchain and doing a panel on basic DeFi and what's been going on this year. If anyone is going down there– please, do not be afraid to come up and talk to me. I love meeting new people and talking, so come up and introduce yourself to me. I'm excited to meet new people and people in the blockchain space.    
+
+I'm quite excited to be talking. If you are down there next Wednesday for the Blockchain center, look for a BarnBridge panel. I'll be speaking there for about 20-25 minutes about BarnBridge and what our goals are in the space. 
+
+So if you see me, pull me aside, introduce yourself and say what's up! I'm looking forward to meeting everyone.
+
+**Troy:** Right on. Okay, I want to hand it over to Pavlo for an update on Discord, the community and the website.
+
 ## Website/Discord Community Update
 
 ## Operations/Marketing Rundown
