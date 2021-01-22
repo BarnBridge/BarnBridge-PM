@@ -11,11 +11,11 @@ Scribe: Rayne L.
 
 Attendees: Mark Ward, Akin Sawyer, EJ Rodgers, Troy Murray, Vitalk Chernyak, Pavlo Bendus, Milad Mostavi, Dragos Rizescu, Tyler Ward, Bodgan Gheorghe, Keegan Selby
 
-## Intro
+## Intro [[0:00]](https://youtu.be/qP4SSKuDFOs)
 
 **Troy:** Welcome to project call 009! We are very close to the release of the DAO. I'll be handing it over to Akin. For an update on the news this week covering DeFi Alliance & Standards. Then he will have to hop off.
 
-## DeFi Alliance / Standards 
+# DeFi Alliance / Standards [[0:20]](https://youtu.be/qP4SSKuDFOs?t=20)
 > [Update](https://twitter.com/qwqiao/status/1351172408963719169?s=21)– In case you missed it
 
 **Akin:** With standards, we are pretty much done. We are just doing some final reviews. We should have something to publish in the next couple of days. There should be something available for the community to engage with and provide feedback.
@@ -32,9 +32,9 @@ Hopping into the tech and dev side, we will be handing it off to Dragos–the on
 
 Please ser. 
 
-# Tech/Dev
+# Tech/Dev [[1:30]](https://youtu.be/qP4SSKuDFOs?t=90)
 
-## BarnBridge– Snapshot
+## BarnBridge– Snapshot [[1:40]](https://youtu.be/qP4SSKuDFOs?t=100)
 
 **Dragos:** I'm just going to start it off and then hand it over to Bogdan. I'm going to mention this one thing I'll share on my screen in a second– if I can find the correct one!   
 
@@ -57,11 +57,11 @@ I'm going to hand it off to Mr. Bogdan G. You all know him. You all love him.
 
 Bogdan G. 😎
 
-## BarnBridge App
+## BarnBridge App [[2:40]](https://youtu.be/qP4SSKuDFOs?t=160)
 
 **Bogdan:** Alrighty, thank you for the intro. Same old. I'll take you through the products and then updates on the dev side. First off, yield-farming, nothing has changed. The three pools have continued, and there have not been any issues reported. We've made some polishes but have not released them yet. You will see them in a couple of weeks when the DAO launches.  
 
-### BBDAO
+### BBDAO [[3:12]](https://youtu.be/qP4SSKuDFOs?t=192)
 
 **Bogdan:** The audits should be finished by the end of next week. We've spoken with the auditors, we have only heard good news so far. There are no known issues. It should be a smooth ride on the smart contract side. 
 
@@ -100,13 +100,13 @@ The proposal section is where we will create suggestions and vote on them. We ha
 
 That's pretty much it for the DAO
 
-### Smart Yield BOND
+### Smart Yield BOND [[10:23]](https://youtu.be/qP4SSKuDFOs?t=623)
 
 **Bogdan:** We are in the final stages. There is a big update coming. Frontend work is beginning next week. We have the UI– I feel as if I should have shown at spoiler for that. But, it's better off if we leave that for the next call. I gave a DAO spoiler this call, and we can have a Smart Yield UI teaser next call. 
 
 Frontend work starts next week. Smart contracts audits are in the first week of February. We are just writing tests, and so far, everything is running smoothly.
 
-### Smart Alpha BOND
+### Smart Alpha BOND [[11:15]](https://youtu.be/qP4SSKuDFOs?t=675)
 
 **Bogdan:** We've made similar progress on the Smart Alpha BOND. We have started the wireframes, and our advisors at Atpar will be doing a lot of the development. There are two versions. We keep adding stuff and moving things around so the end product will be cool.
 
@@ -122,15 +122,15 @@ That's why I hide my eyes...😎 so you can't see the tears. 💧
 
 **Troy:** Solid. I think we can move onto operations.
 
-# Operations
+# Operations [[12:20]](https://youtu.be/qP4SSKuDFOs?t=740)
 
-### Coinbase Custody
+### Coinbase Custody [[12:25]](https://youtu.be/qP4SSKuDFOs?t=745)
 
 > [Update](https://twitter.com/CoinbaseCustody/status/1348739247277268997?s=20)- In case you missed it.
 
 **Troy:** Just to give a quick update. A lot of the community probably noticed we were added to [Coinbase Custody](https://custody.coinbase.com/assets)— which was a long time coming. A lot of hard work went into getting that done. There was a large amount of support from the team on that.
 
-### AAVE Support
+### AAVE Support [[12:38]](https://youtu.be/qP4SSKuDFOs?t=745)
 
 **Troy:** Another noticeable thing we did– we submitted to Aave to get BOND listed on the collateral list used for their lending protocol. It's currently under review by their risk-team. 
 
@@ -156,7 +156,7 @@ Troy, you can go back to what you were saying.
 
 **Troy:** Okay, so I was going to segway into bounties. So I'll pass it to Mark to give an update about that and the Bitcoin talk post. 
 
-## Bounties/Bitcoin Talk
+## Bounties/Bitcoin Talk [[15:30]](https://youtu.be/qP4SSKuDFOs?t=930)
 
 **Mark:** We had someone reach out to us on Discord– we were looking for someone to help us with a Bitcoin talk post. We were not necessarily sure if us posting directly was going to be enough. Someone was nice enough to reach out to give us the ability to post from an aged account. We are working on that post now, and it should be up within the next two days. If any of you are apart of the Bitcoin talk platform, look for that post it'll be in the alt-coin section. I know sometimes things get hidden in that section, but that's where we were recommended to post it. So if you look for it, that's where it will be. 
 
@@ -188,7 +188,7 @@ So if you see me, pull me aside, introduce yourself and say what's up! I'm looki
 
 **Troy:** Right on. Okay, I want to hand it over to Pavlo for an update on Discord, the community and the website.
 
-## Website/Discord Community Update
+## Website/Discord Community Update [[20:47]](https://youtu.be/qP4SSKuDFOs?t=1247)
 
 **Pavlo:** A few words about the website before we touch on Discord. Almost all pages of the website are translated into four languages. Three more are nearly complete, Spanish, Portuguese, and Russian. So if English is not your native tongue, you can now view the website in your respective language. We are also working on the German translations.
 
@@ -196,7 +196,7 @@ Now, talking about Discord. First of all, I want to say I am excited about your 
 
 **Troy:** Okay. So, last and not least, we have Tyler with the Operations and Marketing Rundown.
 
-## Operations/Marketing Rundown
+## Operations/Marketing Rundown [[22:20]](https://youtu.be/qP4SSKuDFOs?t=1340)
 
 **Tyer:** First of all, since the community can't see. The reason I'm wearing this shirt– it has a BarnBridge logo. Some of my employees at Proof Systems and some of the BarnBridge team designed it. Mostly the Ukraine team, Pavlo, Vitaly who you know. And Deema, the original designer of the BarnBridge logo and did original branding before Denis took over and started doing the work we have now. And ___ he does a lot of stuff for us, and I don't know who else has worked with him, but he is like a night-ninja badass. He built the original website. They got this shirt for me, so I want to give them a shout out and say thank you. And Keegan and EJ for the BarnBridge socks. 
 
@@ -221,7 +221,7 @@ Other than that, I've been on calls all week. I'm losing track of time. But ther
 
 **Troy:** I don't think you missed anything.
 
-# Round Table
+# Round Table [[27:37]](https://youtu.be/qP4SSKuDFOs?t=1657)
 
 **Troy:** It's time for the roundtable. There were not any questions this week. Although, there was a bit from Ser Homer Shillson.
 
