@@ -78,7 +78,7 @@ You will see a change from my wallet balance to my staking balance and how it re
 
 You can see my status changed from total voting power — total delegated voting power. I can also pull up a window to get an overview of my BOND balances. 
 
-*Note- you cannot partially delegate your votes.*  
+***Note***- *you cannot partially delegate your votes.*  
 
 When you delegate, you give up control of your votes. So your total voting power is now zero. 
 
