@@ -43,8 +43,9 @@ Please ser.
 We have the BarnBridge snapshot up. You can now search up BarnBridge, where you will find our page and proposals.
 
 You can use two links to get there:
-https://signal.barnbridge.com/
-https://snapshot.page/#/barnbridge.eth
+
+* https://signal.barnbridge.com/
+* https://snapshot.page/#/barnbridge.eth
 
 All the discussions will take place on Github. We are still tweaking things, but we will be ready for the DAO launch.
 
@@ -101,13 +102,36 @@ That's pretty much it for the DAO
 
 ### Smart Yield BOND
 
+**Bogdan:** We are in the final stages. There is a big update coming. Frontend work is beginning next week. We have the UI– I feel as if I should have shown at spoiler for that. But, it's better off if we leave that for the next call. I gave a DAO spoiler this call, and we can have a Smart Yield UI teaser next call. 
+
+Frontend work starts next week. Smart contracts audits are in the first week of February. We are just writing tests, and so far, everything is running smoothly.
+
 ### Smart Alpha BOND
+
+**Bogdan:** We've made similar progress on the Smart Alpha BOND. We have started the wireframes, and our advisors at Atpar will be doing a lot of the development. There are two versions. We keep adding stuff and moving things around so the end product will be cool.
+
+**Troy:** Right on. Thank you for the update on that.
+
+ **Tyler:** You are doing a great job! I know you hate doing this, but you did awesome! The DAO looks awesome.
+
+**Bogdan:** I don't hate it. It's just my bi-weekly dose of cringe. I'm not a public speaking type of guy.
+
+That's why I hide my eyes...😎 so you can't see the tears. 💧
+
+**Everyone:** Chuckles! 😂
+
+**Troy:** Solid. I think we can move onto operations.
 
 # Operations
 
-## Coinbase Custody
+### Coinbase Custody
 
-## AAVE Support
+> [Update](https://twitter.com/CoinbaseCustody/status/1348739247277268997?s=20)- In case you missed it.
+
+So, just to give a quick update. A lot of the community probably noticed we were added to [Coinbase Custody](https://custody.coinbase.com/assets). Which was a long time coming. A lot of hard work went into getting that done. Big support from the team on that.
+
+
+### AAVE Support
 
 ## Bounties/Bitcoin Talk
 
