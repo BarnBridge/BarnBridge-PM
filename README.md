@@ -8,6 +8,7 @@
 
 ## **Audits**
 ### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge-Yield-Farming-and-Incentivization-AUDIT.pdf)
+### DAO [QuantStamp](
 
 ## Previous BarnBridge Project Calls
 
