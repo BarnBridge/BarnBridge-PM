@@ -8,7 +8,7 @@
 
 ## **Audits**
 ### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge-Yield-Farming-and-Incentivization-AUDIT.pdf)
-### BarnBridge DAO: [QuantStamp]() | [Haechi]()
+### (SOON) BarnBridge DAO: [QuantStamp]() | [Haechi]()
 
 ## Previous BarnBridge Project Calls
 
