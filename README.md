@@ -25,6 +25,6 @@
  8  | Thu, Jan 7, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/11) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_008.md)     | [video](https://youtu.be/MZsCqMeeWaM) |   
  9  | Thu, Jan 21, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/13) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_009.md)     | [video](https://youtu.be/qP4SSKuDFOs) |   
  10  | Thu, Feb 4, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/15) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_010.md)     | [video](https://youtu.be/MsVhLDbkWsI) |   
- 11  | Thu, Feb 18, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/17) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_011.md)     | [video]() |  
+ 11  | Thu, Feb 18, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/17) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_011.md)     | [video](https://youtu.be/ZTXCwv5D0IU) |  
 
 
