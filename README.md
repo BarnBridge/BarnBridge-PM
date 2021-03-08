@@ -9,6 +9,7 @@
 ## **Audits**
 ### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge-Yield-Farming-and-Incentivization-AUDIT.pdf)
 ### BarnBridge DAO: [QuantStamp](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/Quantstamp-DAO.pdf) | [Haechi](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/HAECHI-DAO.pdf)
+### Smart YIELD: [Open Zeppelin (coming soon)]() | [Hacken](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/Hacken-Smart%20Yield.pdf)
 
 ## Previous BarnBridge Project Calls
 
