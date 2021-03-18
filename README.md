@@ -3,7 +3,7 @@
 ## **Resourses**
 ### [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.com/) / [Discord](https://discord.gg/s9Z6HJH)
 
-## **Operations**
+## **Governance**
 ### [Proposal Forum](https://forum.barnbridge.com/) / [BB DAO Snapshot](https://signal.barnbridge.com/)
 
 ## **Audits**
