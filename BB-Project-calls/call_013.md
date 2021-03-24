@@ -211,11 +211,11 @@ Pavlo, can we get an update from you on the Discord and the website and all of t
 
 ### Website/Discord Community Update [[18:30]](https://www.youtube.com/watch?v=ZyrHf_VIygA&t=1110s)
 
-**Pavlo:** From the Discord, we have seen a lot more activity lately– related to the Smart Yield launch. We are trying to keep up with everything and be as active as possible. Also, we've added updates to the documents and FAQ. 
+**Pavlo:** From the Discord, we have seen a lot more activity lately– related to the Smart Yield launch. We are trying to keep up with everything and be as active as possible. Also, we've added updates to the [documents and FAQ.](https://docs.barnbridge.com/)
 
 **Tyler:** Pavlo has done some pretty extensive documentation on the Smart Yield product, and Pavlo and Vitalik also posted a ton about Bond.Bet, which we never fully announced the launch on a call. It got overshadowed by the Smart Yield launch because that is far more exciting. I will at least say we have been talking with PoolTogether on where we take that. 
 
-So, if you wanted to learn more about Smart Yield and Bond.Bet Pavlo did a ton of documentation on that.
+So, if you wanted to learn more about [Smart Yield](https://docs.barnbridge.com/faq/products) and [Bond.Bet](https://bond.bet/) Pavlo did a ton of documentation on that.
 
 **Mark:** There is a ton of new information, new FAQs and videos for Smart Yield and Bond.Bet, so make sure to go check those out in the FAQ section.
 
@@ -363,12 +363,14 @@ Alright, everyone! 👋
 **Everyone:** ✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
 
 
+<br>
 
-#### Relevant Links
+### Relevant Links
 
-* [Website](https://www.BarnBridge.com)​ 
+* [Website](https://www.BarnBridge.com)
+* [DOCS](https://docs.barnbridge.com/) 
 * [Project Mangement Hub](https://github.com/BarnBridge/BarnBridge-PM)
 * [Agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/21) 
-* [Twitter](https://twitter.com/barn_bridge​)
+* [Twitter](https://twitter.com/barn_bridge)
 * [Discord](https://discord.gg/NwXHd3z)
 * [Youtube](https://www.youtube.com/channel/UC4exzX_c37p2gYJK4L9nrGQ)
