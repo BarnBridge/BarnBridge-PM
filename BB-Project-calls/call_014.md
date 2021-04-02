@@ -262,7 +262,7 @@ We will see you guys in two weeks!
 
 * [Website](https://www.BarnBridge.com)​
 * [DOCS](https://docs.barnbridge.com/) 
-* [Project Mangement Hub](https://github.com/BarnBridge/BarnBridge-PM)
+* [Project Management Hub](https://github.com/BarnBridge/BarnBridge-PM)
 * [Agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/23) 
 * [Twitter](https://twitter.com/barn_bridge​)
 * [Discord](https://discord.gg/NwXHd3z)
