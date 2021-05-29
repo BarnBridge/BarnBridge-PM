@@ -7,9 +7,11 @@
 ### [Proposal Forum](https://forum.barnbridge.com/) / [BB DAO Snapshot](https://signal.barnbridge.com/)
 
 ## **Audits**
-### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-YieldFarming/blob/master/BarnBridge-Yield-Farming-and-Incentivization-AUDIT.pdf)
-### BarnBridge DAO: [QuantStamp](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/Quantstamp-DAO.pdf) | [Haechi](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/HAECHI-DAO.pdf)
-### Smart YIELD: [Open Zeppelin](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20Smart%20Yield%20Bonds%20Audit%20-%20PDF.pdf) | [Hacken](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/Hacken-Smart%20Yield.pdf)
+### [Yield Farming and LP Incentivization](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20Yield%20Farming%20audit%20by%20Hacken.pdf)
+### [Yield Farming Continuous Rewards](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20Yield%20Farming%20Continuous%20audit%20by%20Hacken.pdf)
+### BarnBridge DAO: [QuantStamp](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20DAO%20audit%20by%20Quanstamp.pdf) | [Haechi](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20DAO%20audit%20by%20Haechi.pdf)
+### SMART Yield: [Open Zeppelin](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20SMART%20Yield%20audit%20by%20Open%20Zeppelin.pdf) | [Hacken (Compound)](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20SMART%20Yield%20(compound)%20audit%20by%20Hacken.pdf) | [Hacken (Aave, Cream)](https://github.com/BarnBridge/BarnBridge-PM/blob/master/audits/BarnBridge%20SMART%20Yield%20(aave%2Bcream)%20audit%20by%20Hacken.pdf)
+
 
 ## Previous BarnBridge Project Calls
 
@@ -31,4 +33,6 @@
  13  | Thu, Mar 18, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/21) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_013.md)     | [video](https://www.youtube.com/watch?v=ZyrHf_VIygA&t=8s) |  
  14  | Thu, Apl 1, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/23) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_014.md)     | [video](https://youtu.be/3iA3uQqp-t4) |  
  15  | Thu, Apl 15, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/25) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_015.md)     | [video](https://www.youtube.com/watch?v=_QIrenVqreo) | 
- 16  | Thu, Apl 29, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/27) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_016.md)     | [video]() | 
+ 16  | Thu, Apl 29, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/27) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_016.md)     | [video](https://www.youtube.com/watch?v=DgTUvvK4vt0) | 
+ 17  | Thu, May 13, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/28) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_017.md)     | [video](https://www.youtube.com/watch?v=eBbDtDl2p3A) | 
+ 18  | Thu, May 27, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/31) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_018.md)     | [video]() | 
