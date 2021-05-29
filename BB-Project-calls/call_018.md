@@ -172,9 +172,9 @@ Did you want to talk about the insurance stuff?
 
 Other than Nexus because that existed before BarnBridge– I talk with [Ricky](https://twitter.com/rkstan) a lot because I'm interested in insurance. So, Nexus is working on whitelisting us. It'll happen next week. Bridge Mutual launches in early June they will be listing us.
 
-Some of this will have to go through a DAO vote, and I'll organize it with Max. Some of these things we'll have to see. I talked with DeFi Ted, and we are already on Cover. But, we need to figure out what is happening with Cover v2 and find out how safe everything is. But, Nexus, Bridge Mutual and _______. (another insurance protocol I'm excited about) 
+Some of this will have to go through a DAO vote, and I'll organize it with Max. Some of these things we'll have to see. I talked with DeFi Ted, and we are already on Cover. But, we need to figure out what is happening with Cover v2 and find out how safe everything is. But, Nexus, Bridge Mutual and [Risk Harbor](https://www.riskharbor.com/). (another insurance protocol I'm excited about) 
 
-______ has already written a bunch of code for BOND. When they launch, they're launching with BOND– mostly the Junior side, because Seniors are NFTs so they have to prepare code for that. They are trying to make it to the mainnet.
+Risk Harbor has already written a bunch of code for BOND. When they launch, they're launching with BOND– mostly the Junior side, because Seniors are NFTs so they have to prepare code for that. They are trying to make it to the mainnet.
 
 Finally, I invested in a company called [Evertas](https://www.evertas.com/). They do off-chain insurance for on-chain contracts. And I've kept in close contact with Kain and Jordan from Synthetix. They invested in a group called [Nayms](https://nayms.io/). They are doing the same thing. Both groups are out of Bermuda, where the majority of the re-insurance for the world funnels through. 
 
