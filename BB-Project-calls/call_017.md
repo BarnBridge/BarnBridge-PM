@@ -14,7 +14,7 @@ Moderator: Troy Murray
 
 Scribe: Rayne L.
 
-Attendees: Troy Murray, Mark Ward, Akin Sawyerr, Pavlo Bendus, Vitalik Cherniak, Milad Mostavi, EJ Rogers, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Max Fiege
+Attendees: Troy Murray, Mark Ward, Akin Sawyerr, Pavlo Bendus, Vitalik Cherniak, Milad Mostavi, Dragos Rizescu, Bogdan Gheorghe, Tyler Ward, Max Fiege
 
 ## Intro [[00:00]](https://youtu.be/eBbDtDl2p3A)
 
@@ -395,11 +395,11 @@ Alright, bye, everyone. Have a wonderful week! 👋
 
 ### Relevant Links
 
-* [Website](https://www.BarnBridge.com)​
+* [Website](https://www.BarnBridge.com)
 * [DOCS](https://docs.barnbridge.com/) 
 * [Project Management Hub](https://github.com/BarnBridge/BarnBridge-PM)
 * [Agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/21) 
-* [Twitter](https://twitter.com/barn_bridge​)
+* [Twitter](https://twitter.com/barn_bridge)
 * [Discord](https://discord.gg/NwXHd3z)
 * [Youtube](https://www.youtube.com/channel/UC4exzX_c37p2gYJK4L9nrGQ)
 
