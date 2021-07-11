@@ -1,6 +1,6 @@
 # **BarnBridge Project Management**
 
-## **Resourses**
+## **Resources**
 ### [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.com/) / [Discord](https://discord.gg/s9Z6HJH)
 
 ## **Governance**
