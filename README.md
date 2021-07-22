@@ -1,6 +1,6 @@
 # **BarnBridge Project Management**
 
-## **Resourses**
+## **Resources**
 ### [Whitepaper](https://github.com/BarnBridge/BarnBridge-Whitepaper) / [Website](https://barnbridge.com/) / [Discord](https://discord.gg/s9Z6HJH)
 
 ## **Governance**
@@ -39,4 +39,4 @@
  18  | Thu, May 27, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/31) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_018.md)     | [video](https://youtu.be/5GkPZjRZOAE) | 
  19  | Thu, June 10, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/33) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_019.md)     | [video](https://www.youtube.com/watch?v=4dMYdgv8-PY) | 
  20  | Thu, June 24, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/35) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_020.md)     | [video](https://www.youtube.com/watch?v=eR_FLOH956E) | 
- 21  | Thu, July 8, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/37) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_021.md)     | [video]() | 
+ 21  | Thu, July 8, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/37) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_021.md)     | [video](https://youtu.be/9DCZE4b-2Hc) | 
