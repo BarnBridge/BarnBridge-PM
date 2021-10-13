@@ -47,3 +47,4 @@
  25  | Thu, Sept 2, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/47) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_025.md)     | [video](https://youtu.be/E0nlS9S8VGA) | 
  26  | Thu, Sept 15, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/50) \| [notes]     | [video](https://youtu.be/ajQrc3FFOsk) | 
  26  | Thu, Sept 30, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/51) \| [notes]     | [video] | 
+ 27  | Thu, Oct 13, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/52) \| [notes]     | [video] | 
