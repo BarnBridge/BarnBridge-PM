@@ -49,3 +49,4 @@
  27  | Thu, Sept 30, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/51) \| [notes]     | [video] | 
  28  | Thu, Oct 13, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/52) \| [notes]     | [video] | 
  29  | Thu, Oct 26, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/53) \| [notes]     | [video] | 
+ 30  | Thu, Nov 10, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/54) \| [notes]     | [video] | 
