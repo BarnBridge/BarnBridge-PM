@@ -50,4 +50,4 @@
  28  | Thu, Oct 13, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/52) \| [notes]     | [video](https://www.youtube.com/watch?v=2Y3Gqf_gfmc) | 
  29  | Thu, Oct 26, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/53) \| [notes]     | [video](https://www.youtube.com/watch?v=JqFCCp8BEFU) | 
  30  | Thu, Nov 11, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/54) \| [notes]     | [video](https://www.youtube.com/watch?v=xpvHD8edy3A) | 
- 31  | Thu, Dec 9, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/55) \| [notes]     | [video](https://www.youtube.com/watch?v=g72TmTZi94A) |  
+ 31  | Thu, Dec 9, 2021 15:00 UTC       | [agenda](https://github.com/BarnBridge/BarnBridge-PM/issues/55) \| [notes](https://github.com/BarnBridge/BarnBridge-PM/blob/master/BB-Project-calls/call_031.md)     | [video](https://www.youtube.com/watch?v=g72TmTZi94A) |  
