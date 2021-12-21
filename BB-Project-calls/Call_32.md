@@ -1,27 +1,27 @@
 Quick note up front: Going forward, we’re going to be shifting Operations & Governance related updates to the weekly AMA’s that Tyler hosts each week. Tyler won’t be on this call today & will be holding the AMA later this week
 
-*Dev updates
+* Dev updates
 
 More detailed roadap update coming Wednesday 12/22 to highlight dev updates & plan. Shorthand notes only below.
 
-**Roadmap update
+** Roadmap update
   - 3 piece article
 	◦	sailor/new prod
 	◦	syv2
 	◦	ui updates / spoilers
-**DEV:
+** DEV:
 	•	infra & BE
 	•	optimism done
-***product updates
+*** product updates
 	•	FE
 	◦	dao updates & yf page updates
-***new products
+*** new products
 	•	roadmap done
-***L2s
+*** L2s
 	•	optimism mainnet done
 	•	bond token on optimism
 	•	bond now on optimism gateway
-**ROADMAP:
+** ROADMAP:
 	1 smart contracts
 	  - spec helps, dev takes more time because of testing etc
 	  - 8 weeks for dev + testing
@@ -44,7 +44,7 @@ More detailed roadap update coming Wednesday 12/22 to highlight dev updates & pl
 	  - FE + BE + SC integrations
 	  - happens during FE & BE dev
 
-*Governance updates
+* Governance updates
 
 ** Forum Proposals
 	•	Floki pool proposal: we’re looking to have this live right after the new year
